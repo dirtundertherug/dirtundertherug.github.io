@@ -7,6 +7,7 @@ OBJS=index.html \
 	mike-masnick-says-i-am-the-dumbest.html \
 	impurify-textual-criticism.html \
 	mike-masnick-aint-reading.html \
+	impurify-the-open-web.html \
 	timeline.html
 
 all: ${OBJS}
