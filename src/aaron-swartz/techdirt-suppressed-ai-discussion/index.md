@@ -3,7 +3,7 @@ Author: impurify
 
 ## What? { #what }
 
-The record of this repressed discussion speaks for itself—as does [the timeline of the suppression](timeline.html) from the Open Web, such that it cannot be seen at *Techdirt* by archivers, search engines, and users without JavaScript:
+The record of this repressed discussion speaks for itself—as does [the timeline of the suppression](timeline.html) from the Open Web, such that it cannot be hyperlinked directly, and it is invisible to archivers, search engines, and users without JavaScript:
 
 <!--
 aaron-swartz/techdirt-suppressed-ai-discussion/
