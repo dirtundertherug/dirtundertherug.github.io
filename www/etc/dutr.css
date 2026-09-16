@@ -1,0 +1,100 @@
+@import url("impureface.css");
+
+:root {
+	--scarlet-letter: #ff3300;
+	--electric-purple: #bf00ff;
+	--hot-pink: #ff69b4;
+}
+
+header > h1 > a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+header > h1 > a :first-child, header > h1 > a :nth-child(2) {
+	color: var(--scarlet-letter);
+}
+
+header > h1 {
+	font-size: 110%;
+	float: left;
+}
+
+header > blockquote {
+	padding: 0;
+	margin-left: 0;
+	margin-right: 0;
+	float: right;
+}
+
+header + hr, main + hr {
+	clear: both;
+}
+
+main, footer {
+	width: 100vw;
+	max-width: 45rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+main p, footer p, main li, main blockquote {
+	text-align: justify;
+}
+
+time[title] {
+	text-decoration: dotted underline;
+}
+
+/* pal.css */
+
+.warning, .note {
+	padding: 0.1em 1em;
+	border-radius: 1em;
+	margin-bottom: 1em;
+}
+
+.warning {
+	background: lightyellow;
+	border: 1px solid var(--scarlet-letter);
+}
+
+.warning :first-child > :first-child {
+	color: var(--scarlet-letter);
+	text-transform: uppercase;
+}
+
+.warning :first-child > :first-child:before,
+	.note :first-child > :first-child:before {
+	display: inline-block;
+	margin-right: 0.3em;
+}
+
+.warning :first-child > :first-child:before {
+	content: '\26a0';
+}
+
+.note {
+	background: #f8f8f8;
+	border: 1px solid #aaa;
+}
+
+.note :first-child > :first-child:before {
+	content: '\1f5c9';
+}
+
+.footnotes {
+	margin-top: 2.1em;
+}
+
+.scarlet {
+	color: var(--scarlet-letter);
+}
+
+.epurple {
+	color: var(--electric-purple);
+}
+
+.hotpink {
+	color: var(--hot-pink);
+}

@@ -1,0 +1,62 @@
+/* XXX dirty hack: Set the same font to all weights and styles. */
+
+@font-face {
+	font-family: "Impure Face";
+	src: url("fonts/impureface.woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Impure Face";
+	src: url("fonts/impureface.woff2");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Impure Face";
+	src: url("fonts/impureface.woff2");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Impure Face";
+	src: url("fonts/impureface.woff2");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@keyframes impure {
+	0% { filter: blur(0.00618em); }
+	/*40% { filter: blur(0.00618em); }*/
+	50% { filter: blur(0.01618em); }
+	/*60% { filter: blur(0.00618em); }*/
+	100% { filter: blur(0.00618em); }
+}
+
+.impurify {
+}
+
+.impurify em, .imp * {
+	display: inline-block;
+	overflow: hidden;
+	width: 0;
+}
+
+/*.impurify, */
+.impurify:after, .imp:after {
+	display: inline-block;
+	font-family: "Impure Face";
+	color: #ff3300;
+	animation: 14s linear infinite running alternate impure;
+}
+
+.impurify:after {
+	content: '\f635';
+}
+
+.imp:after {
+	content: '\f637';
+}
