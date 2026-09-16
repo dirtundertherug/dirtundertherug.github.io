@@ -1,7 +1,7 @@
 Title: Restoring this discussion to the Open Web.
 
   * **Author:** impurify
-  * **Date:** *pending* since 13:17 TD time. (#comment-5598528)
+  * **Date:** *pending* (posted at *Techdirt*, not yet public) since <time datetime="2026-09-16T20:17Z" title="2026-09-16T20:17Z">2026-09-16 at 13:17 TD time</time>. (#5598528)
   * **Text source:** Verbatim original Markdown with which I’m sort of manually doing [POSSE](https://indieweb.org/POSSE), here and at *Techdirt*.
   * **In-reply-to:** [Mike Masnick, “I ain’t reading all that.” (<time datetime="2026-09-14T16:45Z" title="2026-09-14T16:45Z">09:45 *TD* time</time>)](mike-masnick-aint-reading.html)
 
