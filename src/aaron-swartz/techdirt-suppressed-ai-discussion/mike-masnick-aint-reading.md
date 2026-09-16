@@ -6,6 +6,7 @@ Author: Mike Masnick
   * **Archive:** *[Cannot be archived, due to removal of the thread from the Open Web.](https://archive.is/VGTBw)*
   * **Text source:** Copied from archive.is, with Markdown formatting reconstructed by impurify.
   * **In-reply-to:** [impurify, “Texts and textual criticism.”](impurify-textual-criticism.html)
+  * **Follow-up:** [impurify, “Restoring this discussion to the Open Web.”](impurify-the-open-web.html)
 
 ---
 
