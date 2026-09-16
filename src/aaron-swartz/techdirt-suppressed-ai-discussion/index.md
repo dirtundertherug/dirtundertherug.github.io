@@ -3,7 +3,7 @@ Author: impurify
 
 ## What? { #what }
 
-The record of this repressed discussion speaks for itself—as does [the timeline of the suppression](timeline.html) from the Open Web, such that it cannot be hyperlinked directly, and it is invisible to archivers, search engines, and users without JavaScript:
+The record of this repressed discussion speaks for itself—as does [the timeline of the suppression](timeline.html) from the Open Web, such that it cannot be hyperlinked directly, and it is invisible to [archivers](https://web.archive.org/web/20260916195255/https://dirtundertherug.com/aaron-swartz/techdirt-suppressed-ai-discussion/index.html), search engines, and users without JavaScript:
 
 <!--
 aaron-swartz/techdirt-suppressed-ai-discussion/
@@ -56,8 +56,8 @@ mike-masnick-aint-reading
 0. **impurify,** <time datetime="2026-09-13T18:11Z" title="2026-09-13T18:11Z">2026-09-13 at 11:11</time>: [“No, I didn’t personally know Aaron Swartz.”](impurify-did-not-personally-know-aaron-swartz.html) (#5596842, [archive.is](https://archive.is/hfXqL#selection-16167.0-16290.1))
 0. **Mike Masnick,** <time datetime="2026-09-13T20:07Z" time="2026-09-13T20:07Z">2026-09-13 at 13:07</time>: [“You truly have become our dumbest commenter.”](mike-masnick-says-i-am-the-dumbest.html) (#5596913, [archive.is](https://archive.is/93WMZ#selection-16378.0-16476.1))
 0. **impurify,** <time datetime="2026-09-14T13:53Z" title="2026-09-14T13:53Z">2026-09-14 at 06:53</time>: [“Texts and textual criticism.”](impurify-textual-criticism.html) (#5597713; not publicly visible until after <time datetime="2026-09-14T16:11Z" title="2026-09-14T16:11Z">09:11</time>; the whole thread was suppressed as “flagged by the community” [before <time datetime="2026-09-14T16:58Z" title="2026-09-14T16:58Z">09:58</time>; **cannot be archived**](https://archive.is/VGTBw#selection-15812.0-15812.5).  The [last unhidden third-party snapshot](https://archive.is/93WMZ) was at <time datetime="2026-09-14T12:00:23Z" title="2026-09-14T12:00:23Z">08:00:23</time>.)
-0. **Mike Masnick,** <time datetime="2026-09-14T16:45Z" title="2026-09-14T16:45Z">2026-09-14 at 09:45</time>: [“I ain’t reading all that.”](mike-masnick-aint-reading.html) ([**cannot be archived**](https://archive.is/VGTBw#selection-15812.0-15812.5))
-0. **impurify,** *pending* (posted at *Techdirt*, not yet public) since <time datetime="2026-09-16T20:17Z" title="2026-09-16T20:17Z">2026-09-16 at 13:17 TD time</time>: [impurify, “Restoring this discussion to the Open Web.”](impurify-the-open-web.html)
+0. **Mike Masnick,** <time datetime="2026-09-14T16:45Z" title="2026-09-14T16:45Z">2026-09-14 at 09:45</time>: [“I ain’t reading all that.”](mike-masnick-aint-reading.html) (#5597916; [**cannot be archived**](https://archive.is/VGTBw#selection-15812.0-15812.5))
+0. **impurify,** <time datetime="2026-09-16T20:17Z" title="2026-09-16T20:17Z">2026-09-16 at 13:17 TD time</time>: [impurify, “Restoring this discussion to the Open Web.”](impurify-the-open-web.html)  (#5598528. The [incremented comment count](https://archive.is/7lTMC#selection-747.0-747.12) is visible from the Open Web, but [not the comment](https://archive.is/7lTMC#selection-15814.0-15814.5).)
 
 <!-- https://archive.is/93WMZ 14 Sep 2026 12:00:23 UTC
 https://archive.is/VGTBw#selection-15812.0-15812.5 14 Sep 2026 16:58:36 UTC -->
