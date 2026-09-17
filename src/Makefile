@@ -3,7 +3,12 @@
 all: index.html
 
 SUBDIR=about \
-	aaron-swartz
+	aaron-swartz \
+	age \
+	ai \
+	copyright \
+	crypto \
+	free-speech
 
 .include <bsd.subdir.mk>
 
