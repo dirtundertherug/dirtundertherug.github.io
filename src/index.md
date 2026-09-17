@@ -12,10 +12,10 @@ What *this* is, indeed, is a lesson in how “worse is better”—the subject o
 
 [^footnotes]: And I’m disproportionately excited that I can use footnotes!  Like \\( e^{\htmlClass{scarlet}{i}\pi} + 1 = 0 \\), it’s a simple formula for happiness.
 
-Now, since I’m all Web 1.0ish, I get to apologize for the mess without really caring. ![This site is under construction.](etc/underconstructiongeocities.gif)
+Now, since I’m all Web 1.0ish, I get to apologize for the mess without really caring. ![This site is under construction.](etc/underconstructiongeocities.gif =20x20 "Let’s party like it’s 1999!")
 
 ---
 
 On a grave note, I started to spam and mail-sig the archival version of the following links [and such](https://github.com/impurify/avatars) in [January 2025](https://github.com/impurify).  [Let it be not forgot:](https://web.archive.org/web/19971114041230/http://www.eff.org/pub/Legal/Cases/ACLU_v_Reno/19970626_eff_cda.announce)
 
-[![](etc/br.gif)](https://web.archive.org/web/19971024171609/http://www.eff.org/blueribbon.html)
+[![Free Speech Blue Ribbon](etc/br.gif =112x76 "At peak CDA fight, this was the fourth most-linked page on the Web.")](https://web.archive.org/web/19971024171609/http://www.eff.org/blueribbon.html)

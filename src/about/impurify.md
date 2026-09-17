@@ -11,4 +11,4 @@ I am:
 
 That’s the quick-and-dirty version, for a quick and dirty website.  It’s all you need to know, anyway.
 
-[![Remember.](../etc/br.gif)](https://web.archive.org/web/19971024171609/http://www.eff.org/blueribbon.html)
+[![Free Speech Blue Ribbon](../etc/br.gif =112x76 "At peak CDA fight, this was the fourth most-linked page on the Web.")](https://web.archive.org/web/19971024171609/http://www.eff.org/blueribbon.html)
