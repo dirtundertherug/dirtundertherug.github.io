@@ -1,5 +1,9 @@
 Author: impurify
 
+**Update 2026-09-17:** [`age`](age/index.html), [`ai`](ai/index.html), [`copyright`](copyright/index.html), [`crypto`](crypto/index.html), and [`free-speech`](free-speech/index.html) are coming soon.  (That’s alphabetical order, not scheduling order.)
+
+---
+
 Hi, <span class="imp"><em>i</em></span> am <a href="https://dirtundertherug.com/about/impurify.html" class="impurify"><em>impurify</em></a>.  That’s a logotype I made in early 2025, for better things yet undone—yet to come at the dot-com of my name.  For [I am](about/impurify.html) “The Antidote to Purity Culture™”.
 
 Now, I am better known as *dirt under the rug*.  I shall not use my signature domain nams here—not for this.  *This* is my Internet junk drawer—starting with [some dirt *Techdirt* haphazardly swept out of sight](aaron-swartz/techdirt-suppressed-ai-discussion/index.html), whence the snazzy new branding.  Given that impetus to make this site, I’ll probably stick other odds and ends here; perhaps it may evolve somehow to reconverge with my original plans, which were *not this*.
