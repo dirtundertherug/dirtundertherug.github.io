@@ -124,10 +124,13 @@ address {
 	display: inline-block;
 	width: 0;
 	overflow: hidden;
+	overflow-wrap: normal;
+	text-wrap: nowrap;
 }
 
 .at-at:after {
 	/* font-family: monospace; */
+	width: auto;
 	content: '\40';
 	display: inline-block;
 	padding: 0 0.31337em;
