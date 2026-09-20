@@ -1,9 +1,12 @@
 Title: About
 Author: impurify
+No-Auto-Title: 1
+
+<h1>About <a href="https://dirtundertherug.com/" class="impurify"><em>impurify</em></a></h1>
 
 I am:
 
-* [X] **Name:** <a href="https://dirtundertherug.com/" class="impurify"><em>impurify</em></a>, The Antidote to Purity Culture™.
+* [X] **Name:** <em>impurify</em>, The Antidote to Purity Culture™.
 * [X] **Gender:** \\( \htmlClass{scarlet}{| \psi \rangle} = \htmlClass{hotpink}{\alpha|0\rangle} \htmlClass{scarlet}{+} \htmlClass{epurple}{\beta|1\rangle}. \\)  Insofar as I am aware, I’m first person ever to use that equation to construct my gender.  I’ve written unpublished essays for my own discursive production of vectors of “superposed and entangled” genders.  Let it be your reminder to [upgrade to LibrePGP](https://lists.gnupg.org/pipermail/gnupg-users/2025-January/067441.html).  If “\\( \htmlClass{scarlet}{| \psi \rangle} \\)” is a mouthful for a pronoun, just use “they/them”.
 * [X] **Quest:** To seek the Holy Grail, for to use it to catch drippings in a [bukkake](https://commons.wikimedia.org/wiki/File:Bukkake.svg).
 * [ ] **Favorite color:** None of your business.
