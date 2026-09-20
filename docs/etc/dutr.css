@@ -120,6 +120,11 @@ address {
 	font-style: inherit;
 }
 
+.nobreak {
+	overflow-wrap: normal;
+	text-wrap: nowrap;
+}
+
 .at-at > * {
 	display: inline-block;
 	width: 0;
