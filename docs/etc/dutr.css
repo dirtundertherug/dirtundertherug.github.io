@@ -6,6 +6,10 @@
 	--hot-pink: #ff69b4;
 }
 
+body {
+	margin-bottom: 6.66rem;
+}
+
 header > h1 > a {
 	color: inherit;
 	text-decoration: inherit;
@@ -141,6 +145,10 @@ address {
 	padding: 0 0.31337em;
 }
 
+.mono {
+	font-family: monospace;
+}
+
 .byline {
 	padding-left: 1rem;
 }
@@ -153,6 +161,6 @@ address {
 	font-size: 300%;
 	display: block;
 	float: left;
-	padding-top: 0.4rem;
+	padding-top: 0.2rem;
 	padding-right: 0.2rem;
 }
