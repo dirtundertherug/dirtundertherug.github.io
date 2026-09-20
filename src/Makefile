@@ -8,7 +8,8 @@ SUBDIR=about \
 	ai \
 	copyright \
 	crypto \
-	free-speech
+	free-speech \
+	personals
 
 .include <bsd.subdir.mk>
 
