@@ -14,21 +14,24 @@ $endif$
 
 <blockquote>“The Net interprets censorship as damage and routes around it.” — <a href="https://time.com/archive/6724389/first-nation-in-cyberspace/" title="Philip Elmer-Dewitt (1993-12-06). “First Nation in Cyberspace”. TIME magazine.">John Gilmore (1993)</a> (<a title="Internet Archive copy (recommended for no-JavaScript people)" href="https://web.archive.org/web/20240901150549/https://time.com/archive/6724389/first-nation-in-cyberspace/"><abbr>IA</abbr></a>)</blockquote>
 </header>
-<hr />
+<hr /><aside class="top-ad"><p>☞&nbsp;<small><strong>Attention:</strong> I seek contact with $ifdef(is-first-amendment-ad)$<strong>$else$<a href="$ifdef(lawyeradurl)$$lawyeradurl.escapehtmlurl$$endif$">$endif$First Amendment lawyers or scholars$ifdef(is-first-amendment-ad)$</strong>$else$</a>$endif$ and $ifdef(is-thoughtful-ad)$<strong>$else$<a href="$ifdef(thoughtfuladurl)$$thoughtfuladurl.escapehtmlurl$$endif$">$endif$other thoughtful people$ifdef(is-thoughtful-ad)$</strong>$else$</a>$endif$.</small></p></aside><hr />
 
 <main>
 <article>
-$ifdef(title)$<h1>$title.escapehtml$</h1>$endif$
+$ifdef(no-auto-title)$$else$$ifdef(title)$<h1>$title.escapehtml$</h1>$endif$
+$ifdef(subtitle)$<h2>$subtitle.escapehtml$</h2>$endif$$endif$
+$ifdef(impure-byline)$<div class="byline"><address>By <a href="$ifdef(aboutmeurl)$$aboutmeurl.escapehtmlurl$$else$https://dirtundertherug.com/about/impurify.html$endif$" class="impurify"><em>impurify</em></a><span class="at-at"><span><i> at </i></span></span><code>dirtundertherug.com</code> (<a href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$" title="666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96"><small>LibrePGP</small> <code>0x666BE6DF7F1093CD</code></a>).</address>$ifdef(published)$Published: <time>$published.escapehtml$</time>$ifdef(updated)$ • Updated: <time>$updated.escapehtml$</time>$endif$$endif$</div>$endif$
+
 $body$
 </article>
 </main>
 <hr />
 <footer>
-<p>🄯 <a href="https://dirtundertherug.com/about/impurify.html" class="impurify"><em>impurify</em></a> (they/them), <abbr title="also known as">a.k.a.</abbr> “dirt under the rug”.  Licensed for use only by humans, and by machine processes that organize, index, store, and/or retrieve this content for the exclusive ultimate purpose of direct access by humans.  <strong><u><abbr title="Large Language Model">LLM</abbr> training on this content is expressly forbidden</u>.</strong>  Humans, please feel free to copy with attribution.</p>
+<p>🄯 <a href="$ifdef(aboutmeurl)$$aboutmeurl.escapehtmlurl$$else$https://dirtundertherug.com/about/impurify.html$endif$" class="impurify"><em>impurify</em></a> (they/them), <abbr title="also known as">a.k.a.</abbr> “dirt under the rug”.  Licensed for use only by humans, and by machine processes that organize, index, store, and/or retrieve this content for the exclusive ultimate purpose of direct access by humans.  <strong><u><abbr title="Large Language Model">LLM</abbr> training on this content is expressly forbidden</u>.</strong>  Humans, please feel free to copy with attribution.</p>
 
 <p><strong>I never use so-called “<abbr title="artificial intelligence">AI</abbr>” cheating tools in any way whatsoever for my writing.</strong>  If <em>you</em> do, then you’re a bad person and you should feel bad about yourself.</p>
 
-<p><strong>Letters to the editor:</strong>  <i>(mailto)</i> <code>impurify</code> <i>(at domain)</i> <code>dirtundertherug</code> <i>(dot)</i> <code>com</code>.  Please encrypt messages with <a title="0x666BE6DF7F1093CD; fingerprint: 666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96" href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$">my LibrePGP key</a>.</p>
+<p><strong>Letters to the editor:</strong>  <code>impurify</code><span class="at-at mono"><i> (at domain) </i></span><code>dirtundertherug.com</code>.  Please encrypt messages with <a title="0x666BE6DF7F1093CD; fingerprint: 666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96" href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$">my LibrePGP key</a>.</p>
 </footer>
 </body>
 </html>
