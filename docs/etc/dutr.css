@@ -50,6 +50,10 @@ time[title] {
 	text-decoration: dotted underline;
 }
 
+article p > a[type="application/pdf"]:after {
+	content: ' [PDF]';
+}
+
 /* pal.css */
 
 .warning, .note {
