@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-09-22:** “Copyright versus Plagiarism” *pending*.
+
 **Update 2026-09-17:** [`age`](age/index.html), [`ai`](ai/index.html), [`copyright`](copyright/index.html), [`crypto`](crypto/index.html), and [`free-speech`](free-speech/index.html) are coming soon.  (That’s alphabetical order, not scheduling order.)
 
 ---
