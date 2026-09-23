@@ -21,7 +21,7 @@ $for(head.split)$$this$$endfor$
 <article>
 $ifdef(no-auto-title)$$else$$ifdef(title)$<h1>$title.escapehtml$</h1>$endif$
 $ifdef(subtitle)$<h2>$subtitle.escapehtml$</h2>$endif$$endif$
-$ifdef(impure-byline)$<div class="byline"><address>By <a href="$ifdef(aboutmeurl)$$aboutmeurl.escapehtmlurl$$else$https://dirtundertherug.com/about/impurify.html$endif$" class="impurify"><em>impurify</em></a><span class="at-at"><span><i> at </i></span></span><code>dirtundertherug.com</code> (<a href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$" title="666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96"><small>LibrePGP</small> <code>0x666BE6DF7F1093CD</code></a>).</address>$ifdef(published)$Published: <time>$published.escapehtml$</time>$ifdef(updated)$ • Updated: <time>$updated.escapehtml$</time>$endif$$endif$</div>$endif$
+$ifdef(impure-byline)$<div class="byline"><address>By <a href="$ifdef(aboutmeurl)$$aboutmeurl.escapehtmlurl$$else$https://dirtundertherug.com/about/impurify.html$endif$" class="impurify"><em>impurify</em></a><span class="at-at"><span><i> at </i></span></span><code>dirtundertherug.com</code> (<a href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$" title="666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96"><small>LibrePGP</small> <code>0x666BE6DF7F1093CD</code></a>).</address>$ifdef(published)$Published: <time>$published.escapehtml$</time>$ifdef(updated)$ • Updated: <time>$updated.escapehtml$</time>$endif$$endif$$ifdef(version)$$ifdef(published)$<br />$endif$Version: $version.escapehtml$$endif$</div>$endif$
 
 $body$
 </article>
