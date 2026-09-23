@@ -5,7 +5,7 @@ Head: <link rel="preload" as="video" type="video/mp4" href="lovejoy.mp4" />
 
 <i>The following is excerpted from a mockup of my unpublished satirical website about [“age verification”](https://eff.org/age) (see also [Wikipedia, “Think of the children: Lovejoy’s Law”](https://en.wikipedia.org/wiki/Think_of_the_children#Lovejoy's_Law)).  The file modification timestamps are 2025-01-23; I registered a domain name for it on 2025-01-28.  In my take, [**Mrs.&nbsp;Grundy**](https://en.wiktionary.org/wiki/Mrs._Grundy), née Lovejoy, is the tradwife of age verification activist **Jack Grundy,** who has a [modest proposal](https://en.wiktionary.org/wiki/modest_proposal) for the Net.</i>
 
-<i>The below video is just a straight scale and AV1/Opus recode, with my addition of proper metadata.  More interesting:  In 2024, inter alia, I made a neat video remix of **Russell Vought’s** authoritative hidden-camera statement on “age verification”.  However, it’s packed with porn clips; my current webhost prohibits porn.  At the expense of decreased political expressiveness, I need to make a bowdlerized version.</i>
+<i>The below video is just a straight scale and AV1/Opus recode, with my addition of proper metadata.  More interesting:  In 2024, inter alia, I made a neat video remix of **Russell Vought’s** authoritative hidden-camera statement on “age verification”.  However, it’s packed with porn clips; my current webhost prohibits porn.  At the cost of decreased political expressiveness, I need to make a bowdlerized version.</i>
 
 # Mrs. Grundy’s Home Page { # mrs-grundy }
 
