@@ -1,6 +1,6 @@
 Author: impurify
 
-**2026-09-22:** “Copyright versus Plagiarism” *pending*.
+~~2026-09-22~~ **2026-09-23: [“Copyright versus Plagiarism: Know the difference for a freer culture, a better public discourse—and a more effective fight against ‘AI’.”](copyright/plagiarism.html)** ~~pending~~ *published*.  (Also released:  A bit on [Mrs. Grundy, *née* Lovejoy](age/mrs-grundy-nee-lovejoy.html).)
 
 **Update 2026-09-17:** [`age`](age/index.html), [`ai`](ai/index.html), [`copyright`](copyright/index.html), [`crypto`](crypto/index.html), and [`free-speech`](free-speech/index.html) are coming soon.  (That’s alphabetical order, not scheduling order.)
 
