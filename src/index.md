@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-09-25:** New [neology lab](neology/index.html), inaugurated with the [“discursive database”](neology/discursive-database.html).
+
 **2026-09-24:** “Carceral Pornographers” is pending—*inter alia*.
 
 ~~2026-09-22~~ **2026-09-23: [“Copyright versus Plagiarism: Know the difference for a freer culture, a better public discourse—and a more effective fight against ‘AI’.”](copyright/plagiarism.html)** ~~pending~~ *published*.  (Also released:  A bit on [Mrs. Grundy, *née* Lovejoy](age/mrs-grundy-nee-lovejoy.html).)

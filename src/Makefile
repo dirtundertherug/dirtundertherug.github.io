@@ -9,6 +9,7 @@ SUBDIR=about \
 	copyright \
 	crypto \
 	free-speech \
+	neology \
 	personals
 
 .include <bsd.subdir.mk>
