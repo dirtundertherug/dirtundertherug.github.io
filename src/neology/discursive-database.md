@@ -3,7 +3,7 @@ Impure-Byline: 1
 Published: 2026-09-25
 Version: 0.1.0
 
-<span>While writing about [“carceral pornographers”](free-speech/carceral-pornographers.html)</span>,[^prenatallink] another term of my invention, I started to think about how many “facts” are constructed by databases—and I started to think of this in terms of the critiques of social construction.
+<span>While writing about [“carceral pornographers”](../free-speech/carceral-pornographers.html)</span>,[^prenatallink] another term of my invention, I started to think about how many “facts” are constructed by databases—and I started to think of this in terms of the critiques of social construction.
 
 [^prenatallink]: That’s not a dead link:  At the moment of this writing, it’s a *prenatal link*.  Whoops, I’m on a roll coining terms here!  I’ll update this footnote when the article is published.
 
