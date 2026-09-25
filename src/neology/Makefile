@@ -1,6 +1,6 @@
 .include "dirty.mk"
 
-OBJS=index.html \
+OBJS=gloss.html \
 	discursive-database.html \
 
 
