@@ -168,3 +168,34 @@ address {
 	padding-top: 0.2rem;
 	padding-right: 0.2rem;
 }
+
+/* newer: */
+
+.fancybreak {
+	position: relative;
+	text-align: center;
+}
+
+.fancybreak > hr {
+	display: none;
+}
+
+.fancybreak :first-child, .fancybreak :first-child:before, .fancybreak :first-child:after, .fancybreak :first-child + span, .fancybreak :first-child + span:after {
+	display: inline-block;
+	position: relative;
+}
+
+.fancybreak :first-child:before {
+	content: '☙';
+}
+
+.fancybreak :first-child:after {
+	content: '❦';
+	font-size: 132%;
+	top: 0.0618rem;
+	padding: 0 0.666rem;
+}
+
+.fancybreak :first-child + span:after {
+	content: '❧';
+}
