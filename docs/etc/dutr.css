@@ -67,18 +67,18 @@ article p > a[type="application/pdf"]:after {
 	border: 1px solid var(--scarlet-letter);
 }
 
-.warning :first-child > :first-child {
+.warning > :first-child > :first-child {
 	color: var(--scarlet-letter);
 	text-transform: uppercase;
 }
 
-.warning :first-child > :first-child:before,
+.warning > :first-child > :first-child:before,
 	.note :first-child > :first-child:before {
 	display: inline-block;
 	margin-right: 0.3em;
 }
 
-.warning :first-child > :first-child:before {
+.warning > :first-child > :first-child:before {
 	content: '\26a0';
 }
 
@@ -87,7 +87,7 @@ article p > a[type="application/pdf"]:after {
 	border: 1px solid #aaa;
 }
 
-.note :first-child > :first-child:before {
+.note > :first-child > :first-child:before {
 	content: '\1f5c9';
 }
 
