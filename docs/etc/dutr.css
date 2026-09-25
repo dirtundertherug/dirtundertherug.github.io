@@ -4,6 +4,8 @@
 	--scarlet-letter: #ff3300;
 	--electric-purple: #bf00ff;
 	--hot-pink: #ff69b4;
+	--forest-green: #228b22;
+	--myrtle: #21421e;
 }
 
 body {
@@ -198,4 +200,9 @@ address {
 
 .fancybreak :first-child + span:after {
 	content: '❧';
+}
+
+.glosslink {
+	color: var(--myrtle);
+	text-decoration: double underline;
 }
