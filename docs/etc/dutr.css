@@ -159,11 +159,11 @@ address {
 	padding-left: 1rem;
 }
 
-.byline + p > :first-child, .epigram + p > :first-child {
+.byline + p > :first-child, .epigraph + p > :first-child {
 	font-variant: small-caps;
 }
 
-.byline + p::first-letter, .epigram + p::first-letter, .lettrine {
+.byline + p::first-letter, .epigraph + p::first-letter, .lettrine {
 	font-size: 300%;
 	display: block;
 	float: left;
