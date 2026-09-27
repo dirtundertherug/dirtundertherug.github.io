@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-09-27:** “Carceral Pornographers” took an unexpected twist; it’s still pending.  •  Added: [“Kids for Cash” judge Mark Ciavarella’s 1995 teen-hate campaign commercial.](age/mark-ciavarella-1995.html)
+
 **2026-09-25:** New [neology lab](neology/index.html), inaugurated with the [“discursive database”](neology/discursive-database.html).
 
 **2026-09-24:** “Carceral Pornographers” is pending—*inter alia*.
