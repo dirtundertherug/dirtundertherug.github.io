@@ -6,6 +6,7 @@ LOWDOWN_FLAGS=-s \
 	--out-no-smarty \
 	--html-callout-mdn --html-callout-gfm \
 	--parse-no-codeindent \
+	--html-custom-attributes \
 	--html-no-num-ent \
 	--html-no-escapehtml \
 	--html-no-owasp \
