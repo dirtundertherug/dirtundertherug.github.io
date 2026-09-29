@@ -37,3 +37,11 @@ IMPUREASC=${ABSETC}/dirty-impurify.asc
 		| \
 	sed -r -e 's/<!--#([^#]*)#-->/<\1>/g' | \
 	katex > $@
+
+# Usage note: Don’t forget to set this variable *before* .including "dirty.mk".
+.ifdef INDEXREDIRECT
+index.html: ${DUTR}/src/redirect-index.html
+	sed -r -e "s/@/${INDEXREDIRECT}/g" < \
+		${DUTR}/src/redirect-index.html \
+		> $@
+.endif
