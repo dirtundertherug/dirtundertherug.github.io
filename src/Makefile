@@ -6,6 +6,7 @@ SUBDIR=about \
 	aaron-swartz \
 	age \
 	ai \
+	aphorisms \
 	copyright \
 	crypto \
 	free-speech \
