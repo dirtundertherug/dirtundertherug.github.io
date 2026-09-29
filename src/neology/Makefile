@@ -1,3 +1,5 @@
+INDEXREDIRECT=gloss
+
 .include "dirty.mk"
 
 OBJS=gloss.html \
