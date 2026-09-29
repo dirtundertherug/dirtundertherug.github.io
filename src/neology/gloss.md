@@ -3,6 +3,9 @@ Author: impurify
 
 To develop an historical record, this index page is starting as a quick glossary-style list of words and phrases that I have constructed.  The link for each term is either to its first substantial public usage, or to an informal note about the term:
 
+**<span id="adult-fairytales">adult fairytales</span>**
+: Religious faith.  My own term for it generally, so as to avoid wrongly dignifying it as other than what it is.
+
 **[discursive database](discursive-database.html){ #discursive-database }**
 : The almighty database as a social text, and indeed, a sanctified text treated as a source of revealed truth; thereupon, discursive “facts” are produced in a dialectic between humans and databases.
 
