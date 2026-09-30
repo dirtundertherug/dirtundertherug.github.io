@@ -6,7 +6,7 @@ To develop an historical record, this index page is starting as a quick glossary
 **<span id="adult-fairytales">adult fairytales</span>**
 : Religious faith.  My own term for it generally, so as to avoid wrongly dignifying it as other than what it is.
 
-**[breathing meat](../aphorisms/0.html#ui-procrustean-machine){ #breathing-meat }
+**[breathing meat](../aphorisms/0.html#ui-procrustean-machine){ #breathing-meat }**
 : Robot-managed chattel, formerly known as “humans”.  The entity formerly known as an “individual human” is *one unit of breathing meat*.  (Formerly *walking meat;* changed, for of all people, I ought to use language that’s unbiased towards units of breathing meat with impairments that prevent them from walking.)
 
 **[discursive database](discursive-database.html){ #discursive-database }**
