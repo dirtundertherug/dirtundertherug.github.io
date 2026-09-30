@@ -17,4 +17,9 @@ To develop an historical record, this index page is starting as a quick glossary
 
 [def-selfie]: https://en.wiktionary.org/wiki/selfie "Wiktionary: “selfie”." { .glosslink }
 
+**[social grade inflation][social-grade-inflation-first-statement]**
+: The process by which LLM cheating tools devalue human talent and effort with the written word, on the principle that everyone in the class gets an easy A.
+
+[social-grade-inflation-first-statement]: https://www.techdirt.com/2026/08/20/the-eu-wanted-a-deepfake-detector-it-got-an-ai-scarlet-letter/#comment-5585036 "impurify (2026-08-31). “Social Grade Inflation”. Comment at *Techdirt*." { #social-grade-inflation }
+
 When an immediate need arose, I just added this *<abbr title="Dirt Under the Rug">DUTR</abbr>* “neology” site section off-the-cuff.  It needs to be backfilled... someday.

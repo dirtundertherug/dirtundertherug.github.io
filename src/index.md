@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-09-30:** [Seeking clueful Net lawyer re “AI” defamation: Want an interesting case with an “AI” angle?](personals/ai-defamation-lawyer.html)
+
 **2026-09-29.** *Added:* [*The Living Book of Impure Aphorisms*](aphorisms/book.html), [Page Zero](aphorisms/0.html). *Updated:* [The glossary.](neology/gloss.html)
 
 **2026-09-27:** “Carceral Pornographers” took an unexpected twist; it’s still pending.  •  Added: [“Kids for Cash” judge Mark Ciavarella’s 1995 teen-hate campaign commercial.](age/mark-ciavarella-1995.html)
