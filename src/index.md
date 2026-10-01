@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-10-01:** [“‘AI’ Vampires and the Death of Texts”](ai/vampires.html).
+
 **2026-09-30:** [Seeking clueful Net lawyer re “AI” defamation: Want an interesting case with an “AI” angle?](personals/ai-defamation-lawyer.html)
 
 **2026-09-29.** *Added:* [*The Living Book of Impure Aphorisms*](aphorisms/book.html), [Page Zero](aphorisms/0.html). *Updated:* [The glossary.](neology/gloss.html)

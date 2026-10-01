@@ -2,11 +2,14 @@ Title: Seeking clueful Net lawyer re “AI” defamation
 Subtitle: Want an interesting case with an “AI” angle?
 Author: impurify
 Published: 2026-09-30
+Updated: 2026-10-01
 Impure-Byline: 1
 
 <span>At the time of this article’s publication,</span> an anonymous troll is persistently making repeated statements about me in a public venue that are (a)&nbsp;false in fact, (b)&nbsp;damaging to me.  Per the defamation plaintiff’s classic dilemma, I question the wisdom of amplifying these falsehoods by unnecessarily repeating them.  The upshot is that with no more connection to reality than a stereotypical conspiracy theorist, someone is following me around in multiple discussion threads with false, baseless, malicious statements which, in substantial essence, *deny my humanity*.  It is no hyperbole to say that they’re intentionally trying to unperson me.
 
-Alas for me, my facility with the written word is one of but a few compensatory talents with which I am endowed; it is a valuable talent, it’s pretty much almost all I have, and it is accordingly all the more dear to me.  Whereas the “AI” companies have created a product which is defective by design, which creates mass-scale second-order social harms.  One of those harms is what I’ve termed “[social grade inflation](../neology/gloss.html#social-grade-inflation){ .glosslink }”, [the process by which writing skills are socially devalued][social-grade-inflation-first-statement].
+Alas for me, my facility with the written word is one of but a few compensatory talents with which I am endowed; it is a valuable talent, it’s pretty much almost all I have, and it is accordingly all the more dear to me.  Whereas the “AI” companies have created [cultural *vampires*—artificial exoparasitoids][vampires]—a product which is defective by design, which creates mass-scale second-order social harms.  One of those harms is what I’ve termed “[social grade inflation](../neology/gloss.html#social-grade-inflation){ .glosslink }”, [the process by which writing skills are socially devalued][social-grade-inflation-first-statement].
+
+[vampires]: ../ai/vampires.html "impurify (2026-10-01). “‘AI’ Vampires and the Death of Texts”. *Dirt Under the Rug*."
 
 This *implicit* cultural development is deeply distressing to me; it has compelled me to disclaim LLM usage, as I’ve done in this website’s footer [ever since it launched][dutr-first-archive].  What I’ve now found out the hard way is that malicious parties can *explicitly* exploit this cultural development for the purpose of libel—under the cover of Internet anonymity.
 
@@ -33,3 +36,7 @@ To an experienced Net lawyer with the appropriate sensitivity, navigating these 
 If you are such a lawyer, please email me.  This is separate from my search for [First Amendment lawyers or scholars][first-amendment-lawyer]—although of course, the same person may fulfill both roles.
 
 [first-amendment-lawyer]: ../personals/first-amendment-lawyers-scholars.html "impurify (undated). “Seeking First Amendment Lawyers and Scholars: Let’s talk.”"
+
+---
+
+*This text has been updated to link to my identification of LLMs as cultural vampires.*
