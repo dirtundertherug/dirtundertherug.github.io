@@ -1,6 +1,7 @@
 .include "dirty.mk"
 
 OBJS=index.html \
+	vampires.html
 
 
 all: ${OBJS}
