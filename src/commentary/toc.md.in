@@ -1,0 +1,11 @@
+Title: Table of Comments
+
+This is a quick-and-dirty means for me to apply [Indieweb POSSE principles][POSSE] to comments elsewhere.  This system is built in haste, with a Unix [“Worse is Better”][gabriel1989] design.[^uh-huh]
+
+[POSSE]: https://indieweb.org/POSSE "Indieweb: POSSE (Publish (on your) Own Site, Syndicate Elsewhere)"
+
+[gabriel1989]: https://dreamsongs.com/RiseOfWorseIsBetter.html "Richard P. Gabriel (1989). “The Rise of Worse is Better”."
+
+[^uh-huh]: Yeah, yeah, [I know](https://dreamsongs.com/WorseIsBetter.html).
+
+Accordingly, the following are in `find * ... | sort -sr` order, and not *exactly* in reverse chronological order:
