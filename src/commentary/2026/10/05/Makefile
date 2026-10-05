@@ -6,4 +6,5 @@ all: index.html \
 	censorship-personal-attack.html \
 	wannabe-jock-bully-hates-nerds.html \
 	notice0.html \
-	not-spoonfeeding.html
+	not-spoonfeeding.html \
+	behold-the-open-web.html
