@@ -1,6 +1,6 @@
 Title: Table of Comments
 
-This is a quick-and-dirty means for me to apply [Indieweb POSSE principles][POSSE] to comments elsewhere.  This system is built in haste, with a Unix [“Worse is Better”][gabriel1989] design.[^uh-huh]
+This is a quick-and-dirty means for me to apply [Indieweb POSSE principles][POSSE] to comments elsewhere.  This system is built in haste, with a Unix [“Worse is Better”][gabriel1989] design.[^uh-huh]  Accordingly, the following are in `find * ... | sort -sr` order, and not *exactly* in reverse chronological order.
 
 [POSSE]: https://indieweb.org/POSSE "Indieweb: POSSE (Publish (on your) Own Site, Syndicate Elsewhere)"
 
@@ -8,4 +8,4 @@ This is a quick-and-dirty means for me to apply [Indieweb POSSE principles][POSS
 
 [^uh-huh]: Yeah, yeah, [I know](https://dreamsongs.com/WorseIsBetter.html).
 
-Accordingly, the following are in `find * ... | sort -sr` order, and not *exactly* in reverse chronological order:
+It will take me awhile to backfill the hundreds of comments that I’ve made since August 2026.
