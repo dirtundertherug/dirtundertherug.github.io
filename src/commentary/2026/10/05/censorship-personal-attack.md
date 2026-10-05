@@ -1,5 +1,8 @@
 Author: impurify
 Title: When censorship is a personal attack.
+URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/?unapproved=5603564&moderation-hash=8eb47df6c4c5c6dd28567a111e04532f#comment-5603564
+Time: 2026-10-05T18:29Z
+Server-Time: 11:29 am
 IRT-Author: Anonymous Coward
 IRT-URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/#comment-5602743
 
