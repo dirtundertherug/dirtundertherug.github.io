@@ -24,6 +24,9 @@ IMPUREASC=${ABSETC}/dirty-impurify.asc
 .BEGIN:
 	test -d ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,} || mkdir -p ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
 
+#dirs:
+#	test -d ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,} || mkdir -p ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
+
 .OBJDIR: ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
 
 ${DOTOBJ}:
@@ -38,6 +41,11 @@ DIRTY_TEMPLATE_SRCS=${THEAD} \
 
 ${DIRTY_TEMPLATE}: ${DIRTY_TEMPLATE_SRCS} ${DOTOBJ}
 	cat ${DIRTY_TEMPLATE_SRCS} > $@
+
+COMMENT_TEMPLATE_SRCS=${DIRTY_TEMPLATE_SRCS:S,dirty.html.article,comment.html.article,}
+
+${DOTOBJ}/comment.html: ${COMMENT_TEMPLATE_SRCS} ${DOTOBJ}
+	cat ${COMMENT_TEMPLATE_SRCS} > $@
 
 .SUFFIXES: .md .html
 .md.html: ${TEMPLATE}

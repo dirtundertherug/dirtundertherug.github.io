@@ -7,6 +7,7 @@ SUBDIR=about \
 	age \
 	ai \
 	aphorisms \
+	commentary \
 	copyright \
 	crypto \
 	free-speech \
