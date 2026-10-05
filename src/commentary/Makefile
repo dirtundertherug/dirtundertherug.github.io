@@ -9,6 +9,7 @@ toc.md: toc.md.in
 		| sed -r -e 's/\.md$$/.html/' \
 		| while read n; do echo "  * [$$n]($$n)" >> $@; done
 
-SUBDIR=0000
+SUBDIR=0000 \
+	2026
 
 .include <bsd.subdir.mk>
