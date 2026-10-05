@@ -15,7 +15,10 @@ LOWDOWN_FLAGS=-s \
 DUTR=${HOME}/dutr
 ABSWWW=${DUTR}/www
 ABSETC=${ABSWWW}/etc
-DIRTY_TEMPLATE=${DUTR}/.obj/dirty.html
+DOTOBJ=${DUTR}/.obj
+DIRTY_TEMPLATE=${DOTOBJ}/dirty.html
+TEMPLATE?=dirty
+TEMPLATE:=${DOTOBJ}/${TEMPLATE}.html
 IMPUREASC=${ABSETC}/dirty-impurify.asc
 
 .BEGIN:
@@ -23,16 +26,21 @@ IMPUREASC=${ABSETC}/dirty-impurify.asc
 
 .OBJDIR: ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
 
-ARTICLE_TEMPLATE=${DUTR}/templates/dirty.html.head \
-	${DUTR}/templates/dirty.html.article \
-	${DUTR}/templates/dirty.html.foot
+${DOTOBJ}:
+	test -d ${DOTOBJ} || mkdir -p ${DOTOBJ}
 
-${DUTR}/.obj/dirty.html: ${ARTICLE_TEMPLATE}
-	test -d ${DUTR}/.obj || mkdir -p ${DUTR}/.obj
-	cat ${ARTICLE_TEMPLATE} > $@
+THEAD=${DUTR}/templates/dirty.html.head
+TFOOT=${DUTR}/templates/dirty.html.foot
+
+DIRTY_TEMPLATE_SRCS=${THEAD} \
+	${DUTR}/templates/dirty.html.article \
+	${TFOOT}
+
+${DIRTY_TEMPLATE}: ${DIRTY_TEMPLATE_SRCS} ${DOTOBJ}
+	cat ${DIRTY_TEMPLATE_SRCS} > $@
 
 .SUFFIXES: .md .html
-.md.html: ${DIRTY_TEMPLATE}
+.md.html: ${TEMPLATE}
 	lowdown ${LOWDOWN_FLAGS} \
 		-m "css=`realpath --relative-to=. ${ABSETC}/dutr.css`  `realpath --relative-to=. ${ABSETC}/katex/katex.min.css`" \
 		-m "icon=`realpath --relative-to=. ${ABSETC}/scarlet-prohibition.svg`" \
@@ -40,7 +48,7 @@ ${DUTR}/.obj/dirty.html: ${ARTICLE_TEMPLATE}
 		-m "aboutmeurl=`realpath --relative-to=. ${ABSWWW}/about/impurify.html`" \
 		-m "lawyeradurl=`realpath --relative-to=. ${ABSWWW}/personals/first-amendment-lawyers-scholars.html`" \
 		-m "thoughtfuladurl=`realpath --relative-to=. ${ABSWWW}/personals/the-thoughtful-people.html`" \
-		--template ${DIRTY_TEMPLATE} \
+		--template ${TEMPLATE} \
 		$< \
 		| \
 	sed -r -e 's/<!--#([^#]*)#-->/<\1>/g' | \
