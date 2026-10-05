@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-10-05:** I’m setting things up [to POSSE my commentary](commentary/toc.html).
+
 **2026-10-01:** [“‘AI’ Vampires and the Death of Texts”](ai/vampires.html).
 
 **2026-09-30:** [Seeking clueful Net lawyer re “AI” defamation: Want an interesting case with an “AI” angle?](personals/ai-defamation-lawyer.html)
