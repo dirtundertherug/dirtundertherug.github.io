@@ -5,7 +5,7 @@ Server-Time: 4:19 pm
 URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5603346
 IRT-Author: Anonymous Coward
 IRT-URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5603154
-Ed-Note: Robo-vanished.  Did not yet appear, when last I checked.
+Ed-Note: Robo-vanished.  Finally appeared, after a long delay.  (Archival URLs coming.)
 
 *At best*—without suggesting that it’s not much worse; in the most charitable possible interpretation of your behavior across multiple threads—you are acting in reckless disregard for the truth, following me around with an extremely damaging, factually false accusation that would tend to deter intelligent people from reading even one word that I write, targeting me [where the article was written by a Ph.D. and I’d spent *extraordinary* time and effort to engage with it intellectually (and where readers may be unfamiliar with the history of your personal grudge behavior)](https://archive.is/YqeAM#selection-2004.0-2094.8), ***literally denying my humanity*,** and doing all of this with an overt malice, a reasonless personal hatred, a desire to hurt me that drips like vitriol from your every word.
 
