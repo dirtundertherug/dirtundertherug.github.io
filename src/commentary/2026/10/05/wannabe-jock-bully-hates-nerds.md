@@ -1,5 +1,8 @@
 Title: Haters gonna hate.  *This* is not okay.
 Author: impurify
+Time: 2026-10-05T21:58Z
+Server-Time: 2:58 pm
+URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/?unapproved=5603647&moderation-hash=34999d61736c2786ffda4af9cc8c0d3d#comment-5603647
 IRT-Author: Stephen T. Stone
 IRT-TS: 2026-10-05T14:45Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5603524
