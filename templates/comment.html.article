@@ -9,10 +9,9 @@ $ifdef(Author)--$
 <li><strong>Author:</strong> $Author.escapehtml$</li>$endif--$
 $ifdef(IRT-Author)--$
 $ifdef(Time)--$
+<li><strong>Timestamp:</strong> <time datetime="$Time.escapehtml$" title="$Time.escapehtml$">$Time.escapehtml$$ifdef(Server-Time)$ (server time: “$Server-Time.escapehtml$”)$endif$</time></li>$endif--$<!-- time -->
 $ifdef(URL)--$
 <li><strong>URL:</strong> <a href="$URL.escapehtmlurl$">$URL.escapehtml$</a></li>$endif--$
-<li><strong>Timestamp:</strong> <time datetime="$Time.escapehtml$" title="$Time.escapehtml$">$Time.escapehtml$$ifdef(Server-Time)$ (server time: “$Server-Time.escapehtml$”)$endif--$
-</li>$endif--$<!-- time -->
 <li><strong>In-Reply-To:</strong> $ifdef(IRT-URL)--$
 <a href="$IRT-URL.escapehtmlurl$">$endif--$
 $ifdef(IRT-Author)--$<!-- XXX redundant, but control statements lack sufficient flexibility to make the outer $ifdef$ do what I want. -->
@@ -21,7 +20,7 @@ $ifdef(IRT-TS)$ <time datetime="$IRT-TS.escapehtml$">$IRT-TS.escapehtml$</time>$
 $ifdef(IRT-URL)$</a>$endif--$
 </li>$endif--$<!-- In-Reply-To -->
 $ifdef(Ed-Note)--$
-<li><strong>Editor’s Note: $Ed-Note$</li>$endif--$
+<li><strong>Editor’s Note:</strong> $Ed-Note$</li>$endif--$
 
 </ul>
 
