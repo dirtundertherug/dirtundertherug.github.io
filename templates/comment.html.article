@@ -4,7 +4,7 @@
 
 $ifdef(censored)--$
 <div class="notecard warning markdown-alert markdown-alert-warning">
-<p><strong>Censored:</strong> This comment or one of its ancestors was suppressed.  It has been torn out of the Open&nbsp;Web:  It is invisible to search engines, archivers, and people who disable JavaScript, and it cannot be directly referenced via the Web’s core feature:  A direct hyperlink.  To see the comment, user interaction with JavaScript enabled.</p>
+<p><strong>Censored:</strong> This comment or one of its ancestors was suppressed.  It has been torn out of the Open&nbsp;Web:  It is invisible to search engines, archivers, and people who disable JavaScript, and it cannot be directly referenced via the Web’s core feature, <i><abbr title="id est">i.e.</abbr></i>, a direct hyperlink.  To see the comment requires user interaction with JavaScript enabled.</p>
 </div>
 
 $endif--$
