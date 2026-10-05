@@ -15,7 +15,7 @@ LOWDOWN_FLAGS=-s \
 DUTR=${HOME}/dutr
 ABSWWW=${DUTR}/www
 ABSETC=${ABSWWW}/etc
-TEMPLATE=${DUTR}/src/dirty.html
+DIRTY_TEMPLATE=${DUTR}/.obj/dirty.html
 IMPUREASC=${ABSETC}/dirty-impurify.asc
 
 .BEGIN:
@@ -23,8 +23,16 @@ IMPUREASC=${ABSETC}/dirty-impurify.asc
 
 .OBJDIR: ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
 
+ARTICLE_TEMPLATE=${DUTR}/templates/dirty.html.head \
+	${DUTR}/templates/dirty.html.article \
+	${DUTR}/templates/dirty.html.foot
+
+${DUTR}/.obj/dirty.html: ${ARTICLE_TEMPLATE}
+	test -d ${DUTR}/.obj || mkdir -p ${DUTR}/.obj
+	cat ${ARTICLE_TEMPLATE} > $@
+
 .SUFFIXES: .md .html
-.md.html: ${TEMPLATE}
+.md.html: ${DIRTY_TEMPLATE}
 	lowdown ${LOWDOWN_FLAGS} \
 		-m "css=`realpath --relative-to=. ${ABSETC}/dutr.css`  `realpath --relative-to=. ${ABSETC}/katex/katex.min.css`" \
 		-m "icon=`realpath --relative-to=. ${ABSETC}/scarlet-prohibition.svg`" \
@@ -32,7 +40,7 @@ IMPUREASC=${ABSETC}/dirty-impurify.asc
 		-m "aboutmeurl=`realpath --relative-to=. ${ABSWWW}/about/impurify.html`" \
 		-m "lawyeradurl=`realpath --relative-to=. ${ABSWWW}/personals/first-amendment-lawyers-scholars.html`" \
 		-m "thoughtfuladurl=`realpath --relative-to=. ${ABSWWW}/personals/the-thoughtful-people.html`" \
-		--template ${TEMPLATE} \
+		--template ${DIRTY_TEMPLATE} \
 		$< \
 		| \
 	sed -r -e 's/<!--#([^#]*)#-->/<\1>/g' | \

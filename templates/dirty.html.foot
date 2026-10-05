@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>$ifdef(title)$$title.escapehtml$ ($endif$i am dirt under the rug.$ifdef(title)$)$endif$</title>
-$for(css.split)$
-<link rel="stylesheet" href="$this.escapehtmlurl$" />
-$endfor$$ifdef(icon)$
-<link rel="icon" type="image/svg" href="$icon.escapehtmlurl$" />
-$endif$
-$for(head.split)$$this$$endfor$
-<link rel="author" title="impurify" href="https://dirtundertherug.com/about/impurify.html" />
-</head>
-<body>
-<header>
-<h1><a href="https://dirtundertherug.com/"><span class="imp"><em>i</em></span> am <em>dirt under the rug</em>.</a></h1>
-
-<blockquote>“The Net interprets censorship as damage and routes around it.” — <a href="https://time.com/archive/6724389/first-nation-in-cyberspace/" title="Philip Elmer-Dewitt (1993-12-06). “First Nation in Cyberspace”. TIME magazine.">John Gilmore (1993)</a> (<a title="Internet Archive copy (recommended for no-JavaScript people)" href="https://web.archive.org/web/20240901150549/https://time.com/archive/6724389/first-nation-in-cyberspace/"><abbr>IA</abbr></a>)</blockquote>
-</header>
-<hr /><aside class="top-ad"><p>☞&nbsp;<small><strong>Attention:</strong> I seek contact with $ifdef(is-first-amendment-ad)$<strong>$else$<a href="$ifdef(lawyeradurl)$$lawyeradurl.escapehtmlurl$$endif$">$endif$First Amendment lawyers or scholars$ifdef(is-first-amendment-ad)$</strong>$else$</a>$endif$ and $ifdef(is-thoughtful-ad)$<strong>$else$<a href="$ifdef(thoughtfuladurl)$$thoughtfuladurl.escapehtmlurl$$endif$">$endif$other thoughtful people$ifdef(is-thoughtful-ad)$</strong>$else$</a>$endif$.</small></p></aside><hr />
-
-<main>
-<article>
-$ifdef(no-auto-title)$$else$$ifdef(title)$<h1>$title.escapehtml$</h1>$endif$
-$ifdef(subtitle)$<h2>$subtitle.escapehtml$</h2>$endif$$endif$
-$ifdef(impure-byline)$<div class="byline"><address>By <a href="$ifdef(aboutmeurl)$$aboutmeurl.escapehtmlurl$$else$https://dirtundertherug.com/about/impurify.html$endif$" class="impurify"><em>impurify</em></a><span class="at-at"><span><i> at </i></span></span><code>dirtundertherug.com</code> (<a href="$ifdef(pgpfile)$$pgpfile.escapehtmlurl$$endif$" title="666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96"><small>LibrePGP</small> <code>0x666BE6DF7F1093CD</code></a>).</address>$ifdef(published)$$ifdef(written)$Written: <time>$written.escapehtml$</time> • $endif$Published: <time>$published.escapehtml$</time>$ifdef(updated)$ • Updated: <time>$updated.escapehtml$</time>$endif$$endif$$ifdef(version)$$ifdef(published)$<br />$endif$Version: $version.escapehtml$$endif$</div>$endif$
-
-$body$
-</article>
 </main>
 <hr />
 <footer>
