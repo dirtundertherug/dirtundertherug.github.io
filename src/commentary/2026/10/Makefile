@@ -1,7 +1,7 @@
 INDEXREDIRECT=../../toc
 .include "dirty.mk"
 
-SUBDIR=04
+SUBDIR=03 04 05
 
 all: index.html
 
