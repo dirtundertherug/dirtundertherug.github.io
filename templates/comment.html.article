@@ -1,17 +1,26 @@
 <article>
 
-<h1>Comment</h1>
+<h1>$ifdef(censored)$Suppressed $endif$Comment</h1>
 
+$ifdef(censored)--$
+<div class="notecard warning markdown-alert markdown-alert-warning">
+<p><strong>Censored:</strong> This comment or one of its ancestors was suppressed.  It has been torn out of the Open&nbsp;Web:  It is invisible to search engines, archivers, and people who disable JavaScript, and it cannot be directly referenced via the Web’s core feature:  A direct hyperlink.  To see the comment, user interaction with JavaScript enabled.</p>
+</div>
+
+$endif--$
 <ul>
 $ifdef(Title)--$
 <li><strong>Subject:</strong> $Title.escapehtml$</li>$endif--$
 $ifdef(Author)--$
 <li><strong>Author:</strong> $Author.escapehtml$</li>$endif--$
-$ifdef(IRT-Author)--$
 $ifdef(Time)--$
 <li><strong>Timestamp:</strong> <time datetime="$Time.escapehtml$" title="$Time.escapehtml$">$Time.escapehtml$$ifdef(Server-Time)$ (server time: “$Server-Time.escapehtml$”)$endif$</time></li>$endif--$<!-- time -->
+$for(archive.split)--$
+<li><strong>Archive:</strong> <a href="$this.escapehtmlurl$">$this.escapehtml$</a></li>
+$endfor--$
 $ifdef(URL)--$
 <li><strong>URL:</strong> <a href="$URL.escapehtmlurl$">$URL.escapehtml$</a></li>$endif--$
+$ifdef(IRT-Author)--$
 <li><strong>In-Reply-To:</strong> $ifdef(IRT-URL)--$
 <a href="$IRT-URL.escapehtmlurl$">$endif--$
 $ifdef(IRT-Author)--$<!-- XXX redundant, but control statements lack sufficient flexibility to make the outer $ifdef$ do what I want. -->
