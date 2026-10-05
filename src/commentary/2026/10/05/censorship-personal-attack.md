@@ -5,6 +5,7 @@ URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digit
 Time: 2026-10-05T18:29Z
 Server-Time: 11:29 am
 IRT-Author: Anonymous Coward
+IRT-TS: 2026-10-02T21:32Z
 IRT-URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/#comment-5602743
 
 An anonymous troll is maliciously spamming **factually false, reputationally poisonous misinformation** about me.  They’re following me across threads for this purpose.  Their personal attacks have hereby derailed discussion of my on-topic comment.  If *Techdirt* had anything like a functional moderation policy, their moderators would treat such troll comments no differently than they treat commercial spam.
