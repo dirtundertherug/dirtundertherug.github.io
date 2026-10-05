@@ -1,4 +1,6 @@
 TEMPLATE=comment
+INDEXREDIRECT=../../../toc
 .include "dirty.mk"
 
-all: test.html
+all: index.html \
+	test.html

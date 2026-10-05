@@ -1,6 +1,7 @@
+INDEXREDIRECT=toc
 .include "dirty.mk"
 
-all: toc.html
+all: toc.html index.html
 
 toc.md: toc.md.in
 	cp ${.CURDIR}/toc.md.in $@
