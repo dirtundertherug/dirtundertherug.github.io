@@ -3,6 +3,7 @@ Author: impurify
 Time: 2026-10-05T23:55Z
 Server-Time: 4:55 pm
 URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/?unapproved=5603687&moderation-hash=23b559d263929eb4aeb78ef65366019d#comment-5603687
+Archive: https://archive.is/2g5zF#selection-2012.0-3244.6
 IRT-Author: Anonymous Coward
 IRT-TS: 2026-10-02T21:32Z
 IRT-URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/#comment-5602743
