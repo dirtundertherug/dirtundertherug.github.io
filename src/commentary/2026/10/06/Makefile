@@ -5,4 +5,8 @@ INDEXREDIRECT=../../../toc
 all: index.html \
 	i-want-to-believe.html \
 	luser.html \
-	literacy-protip-for-the-literal-minded.html
+	literacy-protip-for-the-literal-minded.html \
+	blame-the-victim.html \
+	clarification.html \
+	digging.html \
+	fact-versus-opinion.html
