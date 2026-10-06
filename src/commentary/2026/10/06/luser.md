@@ -1,5 +1,8 @@
 Title: The etymological history of the word “luser”.
 Author: impurify
+Time: 2026-10-06T07:12Z
+Server-Time: 12:12 am
+URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/?unapproved=5603815&moderation-hash=4e3436ffd2ce04cc5c3cfecaac79739a#comment-5603815
 IRT-Author: Anonymous Coward
 IRT-TS: 2026-10-05T19:55Z
 IRT-URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/#comment-5603614
