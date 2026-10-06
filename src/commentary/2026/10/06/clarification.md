@@ -1,5 +1,8 @@
 Title: Clarification
 Author: impurify
+Time: 2026-10-06T16:12Z
+Server-Time: 9:12 am
+URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/?unapproved=5603989&moderation-hash=0183ea9f49a7120f8c44d23d2e5c8309#comment-5603989
 IRT-Author: Anonymous Coward
 IRT-TS: 2026-09-26T03:55Z
 IRT-URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5600397
