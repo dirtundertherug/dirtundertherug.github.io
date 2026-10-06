@@ -1,5 +1,8 @@
 Title: Digging.
 Author: impurify
+Time: 2206-10-06T16:16Z
+Server-Time: 9:16 am
+URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/?unapproved=5603991&moderation-hash=edae866f5ac7105407d50ec37ff61793#comment-5603991
 IRT-Author: Anonymous Coward
 IRT-TS: 2026-10-06T02:49Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5603728
