@@ -1,5 +1,8 @@
 Title: I want to believe.  (But I don’t.)
 Author: impurify
+Time: 2026-10-06T06:58Z
+Ed-Note: Robo-vanished; must wait for it to show up...
+URL: https://www.techdirt.com/2026/10/05/the-metric-is-not-the-mission-the-finished-internet/#comment-5603807
 Article: https://www.techdirt.com/2026/10/05/the-metric-is-not-the-mission-the-finished-internet/
 
 In the abstract, I tend to agree with this part’s overarching wish:  The Internet *should be* open—and it *should be* “incomplete” per Komaitis’ nomenclature, though I’d prefer different nomenclature.
