@@ -48,7 +48,7 @@ main p, footer p, main li, main blockquote {
 	text-align: justify;
 }
 
-time[title] {
+time[title], .translate[title], .tooltip[title] {
 	text-decoration: dotted underline;
 }
 
