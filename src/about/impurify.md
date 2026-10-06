@@ -4,7 +4,14 @@ No-Auto-Title: 1
 
 <h1>About <a href="https://dirtundertherug.com/" class="impurify"><em>impurify</em></a></h1>
 
-I am:
+<!--#blockquote lang="fr" class="epigraph"#-->“<span class="translate" title="Mothers will make this volume mandatory reading for their daughters.">La mère en préscrira la lecture à sa fille.</span>”[^sade]<!--#/blockquote#-->
+
+[^sade]:
+    **No representation is thus made about my facilities with French, or lack thereof.**  Rather, my choice of this French quote as one of my personal slogans is historical, cultural, and most of all, *political*.
+
+    Hot on the heels of Miller’s legalization in *Grove Press, Inc. v. Gerstein*, 378 U.S. 577 (1964), the Grove Press 1965 volume of the Marquis de Sade was a cultural and constitutional milestone in the freedom to publish books.  In Chapter&nbsp;8 thereof, *Philosophy in the Bedroom* (1795), the translators’ foreword explains, “The epigraph of the original edition is <i lang="fr">La mère en préscrira la lecture à sa fille</i> (Mothers will make this volume mandatory reading for their daughters).&nbsp;.&nbsp;.&nbsp;.  Curiously, the epigraph of \[the\] second edition appeared—whether the change was intentional or not is a moot point—as <i lang="fr">La mère en <em>proscrira</em> la lecture à sa fille</i> (Mothers will *forbid* their daughters to read it).”  (Sade, <abbr title="translated">tr.</abbr> by Richard Seaver and Austryn Wainhouse (1965), *Justine, Philosophy in the Bedroom, and other writings*, Grove Press.)
+
+<span>I am:</span>
 
 * [X] **Name:** <em>impurify</em>, The Antidote to Purity Culture™.
 * [X] **Gender:** \\( \htmlClass{scarlet}{| \psi \rangle} = \htmlClass{hotpink}{\alpha|0\rangle} \htmlClass{scarlet}{+} \htmlClass{epurple}{\beta|1\rangle}. \\)  Insofar as I am aware, I’m first person ever to use that equation to construct my gender.  I’ve written unpublished essays for my own discursive production of vectors of “superposed and entangled” genders.  Let it be your reminder to [upgrade to LibrePGP](https://lists.gnupg.org/pipermail/gnupg-users/2025-January/067441.html).  If “\\( \htmlClass{scarlet}{| \psi \rangle} \\)” is a mouthful for a pronoun, just use “they/them”.
