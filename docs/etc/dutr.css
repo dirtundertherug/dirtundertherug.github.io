@@ -151,19 +151,32 @@ address {
 	padding: 0 0.31337em;
 }
 
+/* XXX: This will break with deeper nesting. */
+i > em, em > em {
+	font-style: normal;
+}
+
 .mono {
 	font-family: monospace;
+}
+
+.smallcap {
+	text-transform: lowercase;
+}
+
+.smallcap, .sc {
+	font-variant: small-caps;
 }
 
 .byline {
 	padding-left: 1rem;
 }
 
-.byline + p > :first-child, .epigraph + p > :first-child {
+.byline + p > :first-child, .epigraph + p > :first-child, .opening-line {
 	font-variant: small-caps;
 }
 
-.byline + p::first-letter, .epigraph + p::first-letter, .lettrine {
+.byline + p::first-letter, .epigraph + p::first-letter, .lettrine::first-letter, .opening-line::first-letter {
 	font-size: 300%;
 	display: block;
 	float: left;
