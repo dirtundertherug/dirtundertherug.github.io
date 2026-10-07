@@ -2,6 +2,7 @@ Author: impurify
 Title: Extended Notice
 Time: 2026-10-04T23:19Z
 Server-Time: 4:19 pm
+Archive: https://archive.is/5V6xN#selection-7700.0-7834.1  https://archive.is/cQkbl#selection-7626.0-7760.1
 URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5603346
 IRT-Author: Anonymous Coward
 IRT-URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5603154
