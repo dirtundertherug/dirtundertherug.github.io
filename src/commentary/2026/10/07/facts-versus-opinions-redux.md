@@ -1,5 +1,8 @@
 Title: Facts versus Opinions Redux
 Author: impurify
+Time: 2026-10-07T16:32Z
+URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5604340
+Ed-Note: Robo-vanished; awaiting...
 IRT-Author: Stephen T. Stone
 IRT-Date: 2026-10-06T17:16Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5604016
