@@ -1,6 +1,7 @@
 .include "dirty.mk"
 
 OBJS=index.html \
+	the-death-of-discourse.html \
 	vampires.html
 
 

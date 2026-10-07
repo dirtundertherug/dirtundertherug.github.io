@@ -2,7 +2,9 @@ Title: So-called “AI” is the death of human discourse.
 Author: impurify
 Attempted-Time: 2026-10-07T19:33Z
 Forum: https://legalbeagles.info/forums/forum/legal-forums/scams-fraud-it
-URL:
+Impure-Byline: 1
+Published: 2026-10-07
+Version: v1.0.0
 
 Imagine a school where cheating is allowed.  Every student can always get an easy A, just by cheating.  The first and most obvious effect is that grades are worthless:  By a process of inflation akin to pumping counterfeit currency into an economy, a report card marked with straight As isn’t worth the paper it’s written on.
 
