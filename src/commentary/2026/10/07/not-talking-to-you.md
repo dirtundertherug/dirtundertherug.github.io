@@ -1,5 +1,8 @@
 Title: Not interested.
 Author: impurify
+Time: 2026-10-07T16:37Z
+URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5604343
+Ed-Note: Robo-vanished; awaiting...
 IRT-Author: Stephen T. Stone
 IRT-Date: 2026-10-06T21:08Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5604075
