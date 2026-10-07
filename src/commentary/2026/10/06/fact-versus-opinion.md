@@ -1,8 +1,9 @@
 Title: Fact versus opinion.
 Author: impurify
 Time: 2026-10-06T16:22Z
+Archive: https://archive.is/A6u2y#selection-10480.0-10626.3  https://archive.is/fLERx#selection-10800.0-10946.3
 URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5603994
-Ed-Note: Robo-vanished.  Will await.
+Ed-Note: Robo-vanished; showed up within about 40 minutes.
 IRT-Author: Stephen T. Stone
 IRT-Date: 2026-10-05T23:28Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5603674

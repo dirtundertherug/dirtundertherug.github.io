@@ -2,6 +2,7 @@ Title: A classic blame-the-victim inversion.
 Author: impurify
 Time: 2026-10-06T16:39Z
 Server-Time: 9:39 am
+Archive: https://archive.is/fLERx#selection-9346.0-9506.3
 URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/?unapproved=5604002&moderation-hash=b2d25fcb8b3e71f9baa120c96d4a3851#comment-5604002
 IRT-Author: Mike Masnick
 IRT-TS: 2026-10-05T22:14Z
