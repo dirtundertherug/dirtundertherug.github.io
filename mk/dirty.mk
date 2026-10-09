@@ -12,8 +12,14 @@ LOWDOWN_FLAGS=-s \
 	--html-no-owasp \
 	--html-no-skiphtml
 
+.ifdef IMP
+DUTR=${IMP}
+WWW=docs
+.else
 DUTR=${HOME}/dutr
-ABSWWW=${DUTR}/www
+WWW=www
+.endif
+ABSWWW=${DUTR}/${WWW}
 ABSETC=${ABSWWW}/etc
 DOTOBJ=${DUTR}/.obj
 DIRTY_TEMPLATE=${DOTOBJ}/dirty.html
@@ -22,12 +28,12 @@ TEMPLATE:=${DOTOBJ}/${TEMPLATE}.html
 IMPUREASC=${ABSETC}/dirty-impurify.asc
 
 .BEGIN:
-	test -d ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,} || mkdir -p ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
+	test -d ${.CURDIR:S,^${DUTR}/src,${DUTR}/${WWW},} || mkdir -p ${.CURDIR:S,^${DUTR}/src,${DUTR}/${WWW},}
 
 #dirs:
 #	test -d ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,} || mkdir -p ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
 
-.OBJDIR: ${.CURDIR:S,^${DUTR}/src,${DUTR}/www,}
+.OBJDIR: ${.CURDIR:S,^${DUTR}/src,${DUTR}/${WWW},}
 
 ${DOTOBJ}:
 	test -d ${DOTOBJ} || mkdir -p ${DOTOBJ}
