@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8" />
 <title>$ifdef(title)$$title.escapehtml$ ($endif$i am dirt under the rug.$ifdef(title)$)$endif$</title>
 $for(css.split)$
 <link rel="stylesheet" href="$this.escapehtmlurl$" />
@@ -9,6 +10,7 @@ $endfor$$ifdef(icon)$
 $endif$
 $for(head.split)$$this$$endfor$
 <link rel="author" title="impurify" href="https://impurify.com/" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body>
 <header>
