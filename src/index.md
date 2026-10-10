@@ -1,5 +1,7 @@
 Author: impurify
 
+**2026-10-10:** <strong class="smallcap"><a href="https://impurify.com/" title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade" class="scarlet">IMPURIFY.COM</a>,</strong> <em>“The Antidote to Purity Culture™,”</em> is now live.  It’s been awaiting a webpage for 19&nbsp;months—*exactly* nineteen months to the day; sadly, for now, it has merely a placeholder page that explains itself, and directs the reader to *Dirt Under the Rug*.  Here at DUTR, my contact info has been updated in the site template, and the [about:impurify](about/impurify.html) page has been updated to refer to <strong class="smallcap"><a href="https://impurify.com/" title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade">IMPURIFY.COM</a>.</strong>  [My LibrePGP key `0x666BE6DF7F1093CD`](https://impurify.com/etc/impurify-pgp.asc){ referrerpolicy="no-referrer-when-downgrade" } has also been updated; it now has more email addresses, and trust signatures from my 2024 vintage LibrePGP key `0x01A6D81EEAD7EEEC` that’s been more widely published. —&nbsp;<a href="https://impurify.com/" title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade" class="impurify"><em>impurify</em></a>.
+
 **2026-10-05:** I’m setting things up [to POSSE my commentary](commentary/toc.html).
 
 **2026-10-01:** [“‘AI’ Vampires and the Death of Texts”](ai/vampires.html).
