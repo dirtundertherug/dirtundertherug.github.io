@@ -1,6 +1,7 @@
 .include "dirty.mk"
 
-all: index.html
+all: index.html \
+	TODO.html
 
 SUBDIR=about \
 	aaron-swartz \
