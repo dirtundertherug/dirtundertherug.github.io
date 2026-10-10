@@ -55,6 +55,7 @@ ${DOTOBJ}/comment.html: ${COMMENT_TEMPLATE_SRCS} ${DOTOBJ}
 
 .SUFFIXES: .md .html
 .md.html: ${TEMPLATE}
+	test ! -s $< || \
 	lowdown ${LOWDOWN_FLAGS} \
 		-m "css=`realpath --relative-to=. ${ABSETC}/dutr.css`  `realpath --relative-to=. ${ABSETC}/katex/katex.min.css`" \
 		-m "icon=`realpath --relative-to=. ${ABSETC}/scarlet-prohibition.svg`" \
