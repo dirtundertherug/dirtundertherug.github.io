@@ -1,7 +1,7 @@
 .include "dirty.mk"
 
 OBJS=index.html \
-
+	carceral-pornographers.html
 
 all: ${OBJS}
 
