@@ -58,7 +58,7 @@ ${DOTOBJ}/comment.html: ${COMMENT_TEMPLATE_SRCS} ${DOTOBJ}
 	lowdown ${LOWDOWN_FLAGS} \
 		-m "css=`realpath --relative-to=. ${ABSETC}/dutr.css`  `realpath --relative-to=. ${ABSETC}/katex/katex.min.css`" \
 		-m "icon=`realpath --relative-to=. ${ABSETC}/scarlet-prohibition.svg`" \
-		-m "pgpfile=`realpath --relative-to=. ${IMPUREASC}`" \
+		-m "pgpfile=https://impurify.com/etc/impurify-pgp.asc" \
 		-m "aboutmeurl=`realpath --relative-to=. ${ABSWWW}/about/impurify.html`" \
 		-m "lawyeradurl=`realpath --relative-to=. ${ABSWWW}/personals/first-amendment-lawyers-scholars.html`" \
 		-m "thoughtfuladurl=`realpath --relative-to=. ${ABSWWW}/personals/the-thoughtful-people.html`" \
