@@ -13,7 +13,7 @@ No-Auto-Title: 1
 
 <span>I am:</span>
 
-* [X] **Name:** <em>impurify</em>, The Antidote to Purity Culture™.
+* [X] **Name:** <strong class="smallcap"><a href="https://impurify.com/" title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade">IMPURIFY.COM</a>,</strong> <em>“The Antidote to Purity Culture™.”</em>
 * [X] **Gender:** \\( \htmlClass{scarlet}{| \psi \rangle} = \htmlClass{hotpink}{\alpha|0\rangle} \htmlClass{scarlet}{+} \htmlClass{epurple}{\beta|1\rangle}. \\)  Insofar as I am aware, I’m first person ever to use that equation to construct my gender.  I’ve written unpublished essays for my own discursive production of vectors of “superposed and entangled” genders.  Let it be your reminder to [upgrade to LibrePGP](https://lists.gnupg.org/pipermail/gnupg-users/2025-January/067441.html).  If “\\( \htmlClass{scarlet}{| \psi \rangle} \\)” is a mouthful for a pronoun, just use “they/them”.
 * [X] **Quest:** To seek the Holy Grail, for to use it to catch drippings in a [bukkake](https://commons.wikimedia.org/wiki/File:Bukkake.svg).
 * [ ] **Favorite color:** None of your business.
