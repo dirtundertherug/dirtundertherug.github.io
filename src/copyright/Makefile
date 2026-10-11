@@ -1,7 +1,8 @@
 .include "dirty.mk"
 
 OBJS=index.html \
-	plagiarism.html
+	plagiarism.html \
+	wastes-human-lifetime-impairs-creativity.html
 
 all: ${OBJS}
 
