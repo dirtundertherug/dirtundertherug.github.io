@@ -44,7 +44,7 @@ main, footer {
 	margin-right: auto;
 }
 
-main p, footer p, main li, main blockquote {
+main p, footer p, main li, main blockquote, main figcaption {
 	text-align: justify;
 }
 
@@ -128,6 +128,10 @@ hr:has(+.top-ad) {
 
 address {
 	font-style: inherit;
+}
+
+figcaption {
+	font-size: 90%;
 }
 
 .nobreak {
