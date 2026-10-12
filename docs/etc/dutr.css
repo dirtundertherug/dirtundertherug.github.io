@@ -223,3 +223,8 @@ i > em, em > em {
 	color: var(--myrtle);
 	text-decoration: double underline;
 }
+
+mark.fragmark:not(:target) {
+	background: inherit;
+	color: inherit;
+}
