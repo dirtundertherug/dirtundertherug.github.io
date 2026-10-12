@@ -2,7 +2,7 @@ Title: Overt apologia for plagiarism.
 Author: impurify
 Time: 2026-09-24T13:48Z
 Server-Time: 6:48 am
-Ed-note: Robo-vanished 6:48 am (2026-09-24T13:48Z), later appeared.
+Ed-note: Robo-vanished 6:48 am (2026-09-24T13:48Z), later appeared.  Auto-highlighting link fragment target(s) have been added, with no substantive changes to the text.
 URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5599893
 Archive: https://archive.is/5V6xN#selection-2356.0-2392.7  https://archive.is/2026.10.05-175416/https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#selection-2356.0-2392.7
 IRT-Author: Mike Masnick
@@ -17,7 +17,7 @@ Mr. Masnick, I observe that instead of taking on the stronger arguments from oth
 
 > \[...\] and even if whoever copies my work tries to hide my name on it, that would likely be to my advantage too. After all, smart people would (1) figure out the copier was hiding my name, damaging their reputation but (2) if not it would drive more interest in me and my ideas, and I’m quite able to profit from that.
 
-That last sentence is so poorly written that it doesn’t even parse logically.  Did an LLM write it?
+That last sentence is <mark class="fragmark" id="so-poorly-written">so poorly written that it doesn’t even parse logically.  <mark class="fragmark" id="did-an-llm-write-it">Did an LLM write it?</mark></mark>
 
 Is (2) supposed to say that if no one figured out that the *plagiarist* (not “copier”) was hiding your name, it would drive interest in you (“me and my ideas”)?  That’s the logical sentence-diagram reading, but it’s nonsensical—indeed, it’s as nonsensical as if you’d asked an LLM to “hallucinate” a bad argument for you.  It reminds me of something I once saw posted in a maths forum:  A stochastic parrot’s authoritative declaration that 85 is a prime number.
 
