@@ -1,6 +1,13 @@
-vanished: 6:48 am (2026-09-24T13:48Z)
+Title: Overt apologia for plagiarism.
+Author: impurify
+Time: 2026-09-24T13:48Z
+Server-Time: 6:48 am
+Ed-note: Robo-vanished 6:48 am (2026-09-24T13:48Z), later appeared.
 URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5599893
-Subject: Overt apologia for plagiarism.
+Archive: https://archive.is/5V6xN#selection-2356.0-2392.7  https://archive.is/2026.10.05-175416/https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#selection-2356.0-2392.7
+IRT-Author: Mike Masnick
+IRT-URL: https://www.techdirt.com/2026/09/23/copyright-infringement-still-isnt-theft-even-when-a-microsoft-employee-says-it-is/#comment-5599800
+IRT-TS: 2026-09-24T04:47Z
 
 Mr. Masnick, I observe that instead of taking on the stronger arguments from others, you first pick on a downright silly argument...
 
