@@ -6,12 +6,13 @@ URL: https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-mos
 IRT-Author: JuanMon
 IRT-TS: 2026-08-13T22:00Z
 IRT-URL: https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-most-famous-anti-vaxxer-nonsense-peddler/#comment-5558338
+Ed-note: Auto-highlighting link fragment target(s) have been added, with no substantive changes to the text.
 
 Boldface supplied:
 
 > I just thought that not saying religious words as little as possible was the **purest** essence of all.
 
-How did you not notice my name?  I am **impurify.**  And I own the single English dictionary word domain name impurify-dot-com (no website as yet).  I am **The Antidote to Purity Culture™,** which does what it says on the tin.  I am very impure.
+<mark class="fragmark" id="impurify">How did you not notice my name?  <mark class="fragmark" id="i">I am **impurify.**</mark>  And <mark class="fragmark" id="impurify-dot-com">I own the single English dictionary word domain name impurify-dot-com</mark> (no website as yet).  I am <mark class="fragmark" id="the-antidote-to-purity-culture">**The Antidote to Purity Culture™,**</mark> which <mark class="fragmark" id="does-what-it-says-on-the-tin">does what it says on the tin</mark>.  <mark class="fragmark" id="slut">I am very impure.</mark></mark>
 
 If I wanted Purity Culture, then I would go to church and complain to my pastor about “struggles” with masturbation and “porn addiction”, then pray to God for relief from sinful thoughts.
 
