@@ -1,4 +1,11 @@
-Subject: Lo!  Behold mine name!
+Title: Lo!  Behold mine name!
+Author: impurify
+Time: 2026-08-13T22:33Z
+Server-Time: 3:33 pm
+URL: https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-most-famous-anti-vaxxer-nonsense-peddler/#comment-5558368
+IRT-Author: JuanMon
+IRT-TS: 2026-08-13T22:00Z
+IRT-URL: https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-most-famous-anti-vaxxer-nonsense-peddler/#comment-5558338
 
 Boldface supplied:
 
