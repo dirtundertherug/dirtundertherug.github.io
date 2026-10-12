@@ -1,5 +1,9 @@
-Subject: This did not age well.
+Title: This did not age well.
+Author: impurify
+Time: 2026-08-09T22:58Z
+Server-Time: 3:58 pm
 URL: https://www.techdirt.com/2026/08/08/this-week-in-techdirt-history-august-2nd-8th/?unapproved=5550893&moderation-hash=685701aaec8981c727eb67223aad68f0#comment-5550893
+Ed-Note: This was the first comment that I made with <a href="https://www.techdirt.com/user/impurify/">my <i>Techdirt</i> account</a>, which I created that day for this comment. I’d previously made a few scattered <i>Techdirt</i> comments in 2025—without an account, but using the same name and email address; they should thus show up in my comment history.
 
 Nowadays, a small minority of children under age 45 are not only literate, but highly eloquent; the rest are monkeys at ~~typewriters~~ *tapwriters*, without the benefit of infinite time on their infinite scroll.
 

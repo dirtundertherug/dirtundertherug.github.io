@@ -1,4 +1,9 @@
-Subject: RFK Jr. : HHS :: Flat Earther : NASA
+Title: RFK Jr. : HHS :: Flat Earther : NASA
+Author: impurify
+Time: 2026-08-12T15:15Z
+Server-Time: 8:15 am
+URL: https://www.techdirt.com/2026/08/11/donald-trump-just-became-the-worlds-most-famous-anti-vaxxer-nonsense-peddler/#comment-5555965
+Ed-Note: This was the first long-form type of commentary that I posted at <i>Techdirt</i>. It’s on the order of 1000&nbsp;words, and it has three embedded hyperlinks.
 
 To appoint RFK Jr. as U.S. Secretary of Health is analogous to appointing a Flat Earther to head NASA.
 
