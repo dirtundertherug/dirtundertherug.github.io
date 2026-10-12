@@ -1,0 +1,8 @@
+INDEXREDIRECT=../../toc
+.include "dirty.mk"
+
+SUBDIR=
+
+all: index.html
+
+.include <bsd.subdir.mk>
