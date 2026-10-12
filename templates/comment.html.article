@@ -28,8 +28,8 @@ $IRT-Author.escapehtml$$endif--$
 $ifdef(IRT-TS)$ <time datetime="$IRT-TS.escapehtml$">$IRT-TS.escapehtml$</time>$endif--$
 $ifdef(IRT-URL)$</a>$endif--$
 </li>$endif--$<!-- In-Reply-To -->
-$ifdef(Ed-Note)--$
-<li><strong>Editor’s Note:</strong> $Ed-Note$</li>$endif--$
+$for(ed-note.split)--$
+<li><strong>Editor’s Note:</strong> $this$</li>$endfor--$
 
 </ul>
 

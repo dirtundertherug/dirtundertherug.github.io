@@ -8,7 +8,7 @@ Archive: https://archive.is/YqeAM#selection-2004.0-2094.8
 IRT-Author: Anonymous Coward
 IRT-TS: 2026-10-02T21:32Z
 IRT-URL: https://www.techdirt.com/2026/10/01/the-metric-is-not-the-mission-the-digital-climate/#comment-5602743
-Ed-Note: Earliest archival snapshot of suppression:  <a href="https://archive.is/cSmEO#selection-1993.0-2001.4"><time>2026-10-05T09:44:08Z</time></a>.
+Ed-Note: Earliest archival snapshot of suppression: <a href="https://archive.is/cSmEO#selection-1993.0-2001.4"><time>2026-10-05T09:44:08Z</time></a>.
 
 If the “community flag” button has any legitimate usage at all, people will press it on the parent comment by Anonymous Coward.  Since they probably won’t, I have no choice but to defend myself.  The context is here: [https://archive.is/cajqZ#selection-8546.0-8732.4](https://archive.is/cajqZ#selection-8546.0-8732.4)
 
