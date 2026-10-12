@@ -228,3 +228,10 @@ mark.fragmark:not(:target) {
 	background: inherit;
 	color: inherit;
 }
+
+.figimg {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	object-fit: scaled-down;
+}
