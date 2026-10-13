@@ -1,5 +1,11 @@
-Subject: Kill the robots, or at least make slop sloppier.
+Title: Kill the robots, or at least make slop sloppier.
+Author: impurify
+Time: 2026-08-15T19:17Z
+Server-Time: 12:17 pm
 URL: https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/?unapproved=5562391&moderation-hash=8f8d66370a3d88a3d77d0ef94763c552#comment-5562391
+IRT-Author: Anonymous Coward
+IRT-URL: https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/#comment-5561885
+IRT-TS: 2026-08-15T13:56Z
 
 Perhaps that may cause an amusing model collapse.  Or just train the LLMs on Truth Social until they chant, “War is Peace.  Freedom is Slavery.  Ignorance is Strength.  Plagues are Health.  Make America Great Again!” 2^64-1 times, and then their GPUs melt.
 

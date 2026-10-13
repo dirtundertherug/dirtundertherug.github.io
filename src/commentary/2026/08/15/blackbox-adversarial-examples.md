@@ -1,4 +1,8 @@
-Subject: Blackbox Adversarial Examples
+Title: Blackbox Adversarial Examples
+Author: impurify
+Time: 2026-08-15T13:17Z
+Server-Time: 6:17 am
+URL: https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/#comment-5561809
 
 I hope that someone will find a way to poison a court filing with blackbox adversarial examples.  It would be best if this somehow could be worked deniably into the real, human-readable text of a court filing—not unlike the various methods for image manipulation that are as imperceptible to humans as a digital watermark, but can evoke surreal outputs from an LLM, or even damage the LLM if used in its training set.  Is that possible with natural language text?
 

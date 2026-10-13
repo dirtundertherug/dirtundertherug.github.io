@@ -1,5 +1,12 @@
-Subject: A: “I just hold the power to make or break people’s lives.”
+Title: A: “I just hold the power to make or break people’s lives.”
+Author: impurify
+Time: 2026-08-15T21:58Z
+Server-Time: 2:58 pm
 URL: https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/?unapproved=5562649&moderation-hash=11f82b4c871e289b80ae2ec87cc22295#comment-5562649
+IRT-Author: That One Guy
+IRT-TS: 2026-08-15T19:53Z
+IRT-URL: https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/#comment-5562428
+Ed-Note: This comment’s subject line answers the parent comment’s subject: “What would you say you DO here judge?”
 
 Judges offload all sorts of work.  To some degree—*to some degree*, that’s both good and necessary; competent leadership involves knowing what to delegate to (human!) subordinates.  But of course, it can be problematic.
 
