@@ -76,7 +76,14 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 4. **I do not use, and I have never used an LLM to write for me in any way whatsoever, period.**  This is an absolute and unequivocal statement, which I intend to be construed as broadly as it reasonably can be.  There are no exceptions.  I intend for this declaration to have zero “wiggle room”.
 
-5. I do not use, and I have never used an LLM for research purposes—except, perhaps, inadvertently and unknowingly; *e.g.*, I do not know whether or not my preferred Web search engine, [Tor Browser][tor]’s [DuckDuckGoOnion][ddgonion] widget in no-JavaScript mode, may have an LLM anywhere in its backend Web index provider.  For better or for worse, the breadth and depth of knowledge shown in my writing is an accurate reflection of my human brain’s breadth and depth of knowledge—and the syntheses in my writing *exclusively* reflect my human brain’s capacity to synthesize conclusions from whatever knowledge it contains.
+5. I do not use, and I have never used an LLM for research purposes[^research-opinion]—except, perhaps, inadvertently and unknowingly; *e.g.*, I do not know whether or not my preferred Web search engine, [Tor Browser][tor]’s [DuckDuckGoOnion][ddgonion] widget in no-JavaScript mode, may have an LLM anywhere in its backend Web index provider.  For better or for worse, the breadth and depth of knowledge shown in my writing is an accurate reflection of my human brain’s breadth and depth of knowledge, in the same manner as it was and would have been five years ago—and the syntheses in my writing *exclusively* reflect my human brain’s capacity to synthesize conclusions from whatever knowledge it contains.
+
+[^research-opinion]:
+    While I am testifying to this fact in this context, I think it’s wise briefly to clarify my opinion in a footnote.  It is not my intent to cast aspersions categorically on every person who has ever used an LLM for any purpose whatsoever.  I am aware that some people whom I respect say or acknowledge that they use LLMs for search purposes, *i.e.*, “research” as that word is used here, or even for specialized research purposes.  I don’t want to give offense to them; it would be inappropriate for me to paint here with too broad a brush, as some specialized fields are now effectually in an arms race of using the computing power of LLMs to explore vast search spaces.  Nor, for the same reason, do I wish to give the impression of a forward-looking declaration that I myself *would* never in all the future use an LLM for such specialized purposes.
+
+    The vehemence of my opinions about LLMs is currently cabined to matters of authorship, construed broadly to include all human creative work:  (a) The stochastic plagiarism of “training” inputs by the LLMs themselves into “generative” outputs; (b) the fraudulent misrepresentation of LLM output as one’s own work; (c) the social devaluation that (b) causes to human authorship; and, (d) the malicious leveraging of (c) to defame human authors, which steals from them credit for their own work.
+
+    That being said, as stated at ¶3.5, it is a fact that at the present time, I have never knowingly used an LLM for research purposes.
 
 [tor]: https://www.torproject.org/ "The Tor Project"
 
@@ -116,7 +123,9 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 17. As of the date hereof, I have never knowingly used Anthropic’s Claude in any way whatsoever.
 
-18. As of the date hereof, I have never knowingly talked to an LLM chatbot, *except* in circumstances where I needed customer service from a corporation that had replaced their human customer service representatives and/or other customer service features with an LLM chatbot or other LLM-based system.
+18. As of the date hereof, I have never knowingly talked to an LLM chatbot,[^chatbot] *except* in circumstances where I needed customer service from a corporation that had replaced their human customer service representatives and/or other customer service features with an LLM chatbot or other LLM-based system.
+
+[^chatbot]: [n. 3 *supra*](#fn3) also applies to ¶¶3.16–3.18, *mutatis mutandis*.
 
 19. As of the date hereof, the one and only text-generation tool I’ve ever used that *could be* classed as “AI” is a Markov chain nonsense-generator.  Its express intended purpose is as a robot-poisoner, to defend against LLM trainers that exceed authorized access to a website by ignoring `robots.txt`; my intent in possessing this tool is to set up a cheap homebrew version of [Cloudflare’s “Labyrinth” feature][labyrinth].  (In my opinion, this is no different than the spambot-poisoners that have been in common use for at least 25–30 years.)  I like this tool because to my knowledge, it is NOT capable of creating text that looks plausibly human—except, arguably, that its output has a verisimilitude to paranoid schizophrenics or other psychotics emitting what psychiatrists call “[word salad][word-salad]”.  Its natural language output is syntactically correct semantic gibberish.
 
@@ -140,7 +149,9 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 [nightshade]: https://nightshade.cs.uchicago.edu/ "Nightshade at  SAND Lab, University of Chicago"
 
-22. At the time of this writing, I have only ever made minor, negligible, incidental, or necessary use of even *non-LLM* technologies classified as “AI”.  For example, I sometimes use the open-source [Tesseract OCR system][tesseract], which I’ve read is nowadays based on a long-term short memory (LSTM) recursive neural network.  My use of *generative* “AI” of any kind whatsoever has been minor or negligible, and, except as stated at ¶¶ 3.19 – 3.20 hereof, in no way whatsoever related to generating natural-language text.
+22. At the time of this writing, I have only ever made minor, negligible, incidental, or necessary use of even *non-LLM* technologies classified as “AI”.[^all-ai-use]  For example, I sometimes use the open-source [Tesseract OCR system][tesseract], which I’ve read is nowadays based on a long-term short memory (LSTM) recursive neural network.  My use of *generative* “AI” of any kind whatsoever has been minor or negligible, and, except as stated at ¶¶ 3.19 – 3.20 hereof, in no way whatsoever related to generating natural-language text.
+
+[^all-ai-use]: [n. 3 *supra*](#fn3) also applies to ¶3.22 generally, *mutatis mutandis*.
 
 [tesseract]: https://github.com/tesseract-ocr/tesseract "Tesseract OCR"
 
