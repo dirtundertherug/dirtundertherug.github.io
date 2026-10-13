@@ -81,9 +81,11 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 [^research-opinion]:
     While I am testifying to this fact in this context, I think it’s wise briefly to clarify my opinion in a footnote.  It is not my intent to cast aspersions categorically on every person who has ever used an LLM for any purpose whatsoever.  I am aware that some people whom I respect say or acknowledge that they use LLMs for search purposes, *i.e.*, “research” as that word is used here, or even for specialized research purposes.  I don’t want to give offense to them; it would be inappropriate for me to paint here with too broad a brush, as some specialized fields are now effectually in an arms race of using the computing power of LLMs to explore vast search spaces.  Nor, for the same reason, do I wish to give the impression of a forward-looking declaration that I myself *would* never in all the future use an LLM for such specialized purposes.
 
-    The vehemence of my opinions about LLMs is currently cabined to matters of authorship, construed broadly to include all human creative work:  (a) The stochastic plagiarism of “training” inputs by the LLMs themselves into “generative” outputs; (b) the fraudulent misrepresentation of LLM output as one’s own work; (c) the social devaluation that (b) causes to human authorship; and, (d) the malicious leveraging of (c) to defame human authors, which steals from them credit for their own work.
+    The vehemence of my opinions about LLMs is currently cabined to matters of authorship, construed broadly to include all human creative work:  (a) The stochastic plagiarism of “training” inputs by the LLMs themselves into “generative” outputs; (b) the fraudulent misrepresentation of LLM output as one’s own work; (c) [the social devaluation that (b) causes to human authorship][social-grade-inflation0]; and, (d) the malicious leveraging of (c) to defame human authors, which steals from them credit for their own work.
 
     That being said, as stated at ¶3.5, it is a fact that at the present time, I have never knowingly used an LLM for research purposes.
+
+[social-grade-inflation0]: https://dirtundertherug.com/commentary/2026/08/31/social-grade-inflation.html "impurify (2026-08-31). “Social Grade Inflation”. *DUTR* copy of *Techdirt* comment."
 
 [tor]: https://www.torproject.org/ "The Tor Project"
 
