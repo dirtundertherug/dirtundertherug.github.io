@@ -130,7 +130,13 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 [iocaine-demo]: https://poison.madhouse-project.org/ "iocaine (poison) demo'
 
-21. At *Techdirt*, I have made public commentary expressing my desire for a more efficacious text-poisoner, and advocating that visual artists should use the [Nightshade image poisoner from the University of Chicago][nightshade].
+21. At *Techdirt*, I have made public commentary [expressing my desire][blackbox-adversarial-examples] for a [more efficacious text-poisoner][make-slop-sloppier], and [advocating that visual artists][nightshade-advocacy] should use the [Nightshade image poisoner from the University of Chicago][nightshade].
+
+[blackbox-adversarial-examples]: https://dirtundertherug.com/commentary/2026/08/15/blackbox-adversarial-examples.html "impurify (2026-08-15). “Blackbox Adversarial Examples”. *DUTR* copy of *Techdirt* comment."
+
+[make-slop-sloppier]: https://dirtundertherug.com/commentary/2026/08/15/make-slop-sloppier.html "impurify (2026-08-15). “Kill the robots, or at least make slop sloppier.” *DUTR* copy of *Techdirt* comment."
+
+[nightshade-advocacy]: https://dirtundertherug.com/commentary/2026/08/15/nightshade.html "impurify (2026-08-15). “Nightshade” *DUTR* copy of *Techdirt* comment."
 
 [nightshade]: https://nightshade.cs.uchicago.edu/ "Nightshade at  SAND Lab, University of Chicago"
 
