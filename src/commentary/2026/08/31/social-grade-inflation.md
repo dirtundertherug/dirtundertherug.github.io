@@ -1,5 +1,9 @@
+Title: Social Grade Inflation
+Author: impurify
+Time: 2026-08-31T12:05Z
+Server-Time: 5:05 am
 URL: https://www.techdirt.com/2026/08/20/the-eu-wanted-a-deepfake-detector-it-got-an-ai-scarlet-letter/#comment-5585036
-Subject: Social Grade Inflation
+Archive: https://archive.is/3N3E7#selection-4961.0-5128.1
 
 This is frank advocacy of the world as a classroom where everyone is allowed to cheat, because everyone deserves an A.
 
