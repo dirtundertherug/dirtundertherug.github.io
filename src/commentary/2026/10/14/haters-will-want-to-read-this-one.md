@@ -1,5 +1,9 @@
 Title: Haters will want to read this one.
 Author: impurify
+Time: 2026-10-14T17:21Z
+Server-Time: 10:21 am
+Ed-Note: Robo-vanished; awaiting its appearance.
+URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5606153
 IRT-Author: Stephen T. Stone
 IRT-TS: 2026-10-07T20:36Z
 IRT-URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5604426
