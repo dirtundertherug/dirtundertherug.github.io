@@ -213,7 +213,7 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 10. This hereby affidavit took me a full day, substantially a double-shift of work, to write and to edit to my satisfaction.
 
-11. This hereby affidavit was written by me while I have been in physical pain, bodily exhausted, in a state of severe chronic malnutrition, and atop all that, emotionally drained and aggrieved by what is described at §§3.11–3.15 and §5 hereof.  As I write these words, my neck is in agony.  I am forcing myself to complete this while I am worn out, and beyond “worn out”.
+11. This hereby affidavit was written by me while I have been in physical pain, bodily exhausted, in a state of severe chronic malnutrition, and atop all that, emotionally drained and aggrieved by what is described at ¶¶3.11–3.15 and §5 hereof.  As I write these words, my neck is in agony.  I am forcing myself to complete this while I am worn out, and beyond “worn out”.
 
 12. For the sake of my dignity, not to mention professioanl comportment, I actively desire *not* to disclose publicly my bodily limitations and attendant personal circumstances.  I am resolved to do so only if, and to the extent necessary.  I am aggrieved that in more or less degree, it has become necessary.
 
