@@ -183,9 +183,9 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 6. For personal reasons, I am at my computer almost every waking moment.
 
-7. I do not have a “smartphone”.  I have been a smartphone refusenik from the start—long before it became fashionable!
+7. I do not use what are commonly called “social media” (Facebook, Twitter, *et al.*).
 
-8. I do not use social media.  I have been a social media refusenik from the start.  My negligible attempts to create social media accounts have all rapidly failed.  At this time, my only active social media account is arguably my Github account; I deem Github “social media”, although most people do not.
+8. Due to personal circumstances, and *primarily* due to bodily impairments, I lack ordinary or “normal” means to connect to other people “in real life”, *i.e.*, not on the Internet.
 
 9. To build [*Dirt Under the Rug*][dutr0] (*see* ¶¶ 5.17 *et seq.*, *infra*), I use [`git`][git] (with [`gpg`][gnupg1] for signed commits), a very small [Bourne shell][bourne] script, [`bmake`][bmake], [`lowdown`][lowdown], and for maths (*e.g.*, \\( e^{i\pi} + 1 = 0 , \\) or \\( \zeta(s) =\sum_{n=1}^\infty\frac{1}{n^s} \\)) with no JavaScript required on the client, a custom [\\( \htmlClass{nobreak}{\KaTeX} \\)][katex0] rendering tool that I made myself using [QuickJS][quickjs0].  I threw that website together in a few hours of development time, on [Indieweb][indieweb]-style principles—using the tools that I already had on hand from preliminary work on my long-term goal of writing my own content management systme (CMS).  (Note:  If you see a rendering bug in the HTML conversion of this paragraph, please refer to ¶5.8 *infra*.)
 
