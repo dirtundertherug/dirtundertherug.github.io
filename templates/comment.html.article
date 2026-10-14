@@ -10,7 +10,7 @@ $ifdef(censored)--$
 $endif--$
 $ifdef(robo-vanished)--$
 <div class="notecard warning markdown-alert markdown-alert-warning">
-<p><strong>Robo-vanished:</strong> This comment was eaten by a robot; to my awareness, it was never rescued by a human.  The comment URL link may be broken.</p>
+<p><strong>Robo-vanished:</strong> This comment was eaten by a robot; to my awareness, it was never rescued by a human.  The link in the comment URL field may be broken.</p>
 </div>
 
 $endif--$
