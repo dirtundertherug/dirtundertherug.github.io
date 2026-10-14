@@ -1,8 +1,8 @@
 Title: Quasi-Affidavit
 Author: impurify
-Date: 2026-10-09
+Date: 2026-10-14
 
-On this date of October 9, 2026, I, the natural person who uses the authorial pseudonym “impurify”, do hereby make this my affidavit and state:
+On this date of October 14, 2026, I, the natural person who uses the authorial pseudonym “impurify”, do hereby make this my affidavit and state:
 
 ## 1. Intentionality { #intentionality }
 
@@ -211,7 +211,7 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 [indieweb]: https://indieweb.org/ "IndieWeb"
 
-10. This hereby affidavit took me a full day, substantially a double-shift of work, to write and to edit to my satisfaction.
+10. This hereby affidavit substantially nigh a week to produce, modulo some time when I diverged to related or prerequisite tasks—plus completely unproductive time when I wore myself out and ran myself into the ground, by working the equivalent of a double-shift last week to try to get this done ASAP.  I am still unsatisfied with its quality, but it needs to get done.
 
 11. This hereby affidavit was written by me while I have been in physical pain, bodily exhausted, in a state of severe chronic malnutrition, and atop all that, emotionally drained and aggrieved by what is described at ¶¶3.11–3.15 and §5 hereof.  As I write these words, my neck is in agony.  I am forcing myself to complete this while I am worn out, and beyond “worn out”.
 
@@ -332,4 +332,4 @@ I hereby certify under **PENALTY OF PERJURY** that all, each, and every of the f
 **IN WITNESS WHEREOF,**
 
 /s/ impurify\
-Date: 2026-10-09
+Date executed: 2026-10-14
