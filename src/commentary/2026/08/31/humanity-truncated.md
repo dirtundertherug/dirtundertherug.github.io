@@ -1,6 +1,13 @@
+Title: Declaration of Humanity [temporary stand-in]
+Author: impurify
+Time: 2026-08-31T00:31Z
+Server-Time: August 30, 2026 at 5:13 pm
+Ed-Note: This is a replacement for <a href="../30/humanity.html">a robo-vanished comment</a>.  <i>See also</i> <a href="social-grade-inflation.html">“Social Grade Inflation”</a>.  The archive link lacks a highlighting fragment identifier, which I need to load it with JS to obtain. OTOH, the comment-id is better.
 URL: https://www.techdirt.com/2026/08/28/school-asks-cops-to-stop-using-stun-gloves-on-its-students/#comment-5584612
-Archive: https://archive.md/nXkWt
-Subject: Declaration of Humanity [temporary stand-in]
+Archive: https://archive.md/nXkWt#comment-5584612
+IRT-Author: Stephen T. Stone
+IRT-TS: 2026-08-30T21:48Z
+IRT-URL: https://www.techdirt.com/2026/08/28/school-asks-cops-to-stop-using-stun-gloves-on-its-students/#comment-5584552
 
 > Jesus fucking Christ, do you have *entire essays* ready to post at the drop of a hat or some shit? I’ve got copypastas in a text expander application and most of them aren’t even half this long.
 

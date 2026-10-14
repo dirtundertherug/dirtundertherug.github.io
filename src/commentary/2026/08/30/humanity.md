@@ -1,5 +1,12 @@
+Title: Declaration of Humanity
+Author: impurify
+Time: 2026-08-30T23:21:09.756997386Z
+Robo-Vanished: 1
 URL: https://www.techdirt.com/2026/08/28/school-asks-cops-to-stop-using-stun-gloves-on-its-students/#comment-5584595
-Subject: Declaration of Humanity
+Ed-Note: The timestamp is this file’s mtime before editing to add this metadata.  As of 2026-10-14, it seems permanently vanished.  <i>See</i> <a href="../31/humanity-truncated.html">the replacement comment</a>.  <i>See also</i> <a href="../31/social-grade-inflation.html">“Social Grade Inflation”</a>.
+IRT-Author: Stephen T. Stone
+IRT-TS: 2026-08-30T21:48Z
+IRT-URL: https://www.techdirt.com/2026/08/28/school-asks-cops-to-stop-using-stun-gloves-on-its-students/#comment-5584552
 
 > Jesus fucking Christ, do you have *entire essays* ready to post at the drop of a hat or some shit? I’ve got copypastas in a text expander application and most of them aren’t even half this long.
 
