@@ -8,6 +8,12 @@ $ifdef(censored)--$
 </div>
 
 $endif--$
+$ifdef(robo-vanished)--$
+<div class="notecard warning markdown-alert markdown-alert-warning">
+<p><strong>Robo-vanished:</strong> This comment was eaten by a robot; to my awareness, it was never rescued by a human.  The comment URL link may be broken.</p>
+</div>
+
+$endif--$
 <ul>
 $ifdef(Title)--$
 <li><strong>Subject:</strong> $Title.escapehtml$</li>$endif--$
