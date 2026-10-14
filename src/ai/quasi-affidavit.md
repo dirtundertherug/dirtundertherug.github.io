@@ -117,9 +117,13 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 14. My reaction is eminently reasonable; however, to mitigate the harm, I reasonably wish to discuss ¶¶ 3.12 – 3.13 with a therapist.  I lack access to such a thing, and it’s a much lower priority to me than a lawyer.  Ultimately, I believe that the only cure is relief from the harm.
 
-15. In an aphorism that [I have seen attributed to Edward Bulwer-Lytton (1839)][pen-sword], it is said that “the pen is mightier than the sword”, and indeed, that the pen is “\[t\]he arch-enchanter’s wand!—itself a nothing!—\[b\]ut taking sorcery from the master-hand...”  By the theft from me of credit for my own words, I feel *disarmed*.
+15. In an aphorism that [I have seen attributed to Edward Bulwer-Lytton (1839)][pen-sword], it is said that “the pen is mightier than the sword”, and indeed, that the pen is “\[t\]he arch-enchanter’s wand!—itself a nothing!—\[b\]ut taking sorcery from the master-hand...”  By the theft from me of credit for my own words, I feel *disarmed*.[^probative]
 
 [pen-sword]: https://en.wikipedia.org/wiki/The_pen_is_mightier_than_the_sword "*Wikipedia*: “The pen is mightier than the sword”."
+
+[^probative]:
+    At ¶¶3.7–3.8, 3.11–3.13, 3.15, and some other points elsewhere herein, I testify as to facts probative of what opinions I told, the sincerity thereof, state of mind, intentionality, motives, and so forth.  I do not attempt to “testify” to an opinion in itself—nor to such facts outside my first-hand knowledge as, for instance, the etymology of a word, or the attribution of a quote.
+    <!-- See also the log for git commit 02ca32d2a18043e9d9cc62976cbbd43775964ee3. -->
 
 16. As of the date hereof, I have never knowingly used OpenAI’s ChatGPT in any way whatsoever.
 
@@ -219,7 +223,9 @@ On this date of October 9, 2026, I, the natural person who uses the authorial ps
 
 2. To avail myself of the shield of pseudonymity is not only congenial to my values as a self-described privacy advocate, but also, in view of ¶5.1, reasonably perceived by me as a practical necessity.
 
-3. I am basically familiar with the respect that U.S. constitutional law traditionally accords to anonymous speech, especially when the speech is in the nature of “core political speech”; *see* *McIntyre v. Ohio Elections Comm’n*, 514 U.S. 334, 347 (1995), which applied strict scrutiny (thereby also called “exacting scrutiny”) to the regulation of anonymous publication of “core political speech”, and which declared that “core political speech need not center on a candidate for office”.  I note these legalities not inappropriately to make legal arguments in an affidavit, but to testify that, in fact, I am long familiar with these issues, and these legalities have helped to inform my practical application of privacy, anonymity, and pseudonymity in my exercise of my right to free speech—not only, but *especially* in view of ¶5.2.
+3. I am basically familiar with the respect that U.S. constitutional law traditionally accords to anonymous speech, especially when the speech is in the nature of “core political speech”; *see* *McIntyre v. Ohio Elections Comm’n*, 514 U.S. 334, 347 (1995), which applied strict scrutiny (thereby also called “exacting scrutiny”) to the regulation of anonymous publication of “core political speech”, and which declared that “core political speech need not center on a candidate for office”.  I note these legalities not inappropriately to make legal arguments in an affidavit, but to testify that, in fact,[^probative1] I am long familiar with these issues, and these legalities have helped to inform my practical application of privacy, anonymity, and pseudonymity in my exercise of my right to free speech—not only, but *especially* in view of ¶5.2.
+
+[^probative1]: *Cf.* the interpretive note in [n. 4 *supra*](#fn4), which also applies more directly to various other paragraphs in §5.
 
 4. I first conceived, and I first used the personal and brand name “impurify” for myself in January 2025, starting on or about the dates of January 5–10, 2025.  My first public use of the name “impurify” was on or about January 5, 2025.  I obtained beneficial control of a new registration of the Internet domain name [**IMPURIFY.COM**][impurify] on January 9–10, 2025.  I first used an unpublished email address `@impurify.com` to send mail to a semi-public figure on January 15, 2025.  I created the “impurify” and “i” logotypes on or about January 22, 2025, as derivative works (in the case of “impurify”, a significantly modified derivative) of the free software [“Calligra” (CALLIG15) font][calligra] that is delivered with [TeX Live][texlive].  I created the subtle CSS animation for the “impurify” logotype on January 22, 2025, as now seen on *Dirt Under the Rug* (*see* ¶5.17 *infra*).  I first posted on an Internet forum as “impurify” on January 24, 2025 (*see* ¶5.9 *infra*)—whereupon after only two posts, on January 31, 2025, I received notice that I was awarded the “New User of the Month” badge for “Outstanding contributions in their first month”.
 
