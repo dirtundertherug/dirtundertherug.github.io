@@ -1,6 +1,7 @@
 .include "dirty.mk"
 
 all: index.html \
+	404.html \
 	TODO.html
 
 SUBDIR=about \
