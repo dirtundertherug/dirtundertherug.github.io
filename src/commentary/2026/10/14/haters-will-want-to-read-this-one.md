@@ -2,7 +2,8 @@ Title: Haters will want to read this one.
 Author: impurify
 Time: 2026-10-14T17:21Z
 Server-Time: 10:21 am
-Ed-Note: Robo-vanished; awaiting its appearance.
+Ed-Note: Robo-vanished; awaiting its appearance.  2026-10-15T18:11Z: still vanished. Added above banner. <i>See</i> <a href="../15/second-attempt.html">“second attempt” follow-up</a>.
+Robo-vanished: 1
 URL: https://www.techdirt.com/2026/09/21/free-speech-president-admits-hes-banning-the-free-press-from-the-white-house/#comment-5606153
 IRT-Author: Stephen T. Stone
 IRT-TS: 2026-10-07T20:36Z
