@@ -8,6 +8,7 @@ LOWDOWN_FLAGS=-s \
 	--parse-no-codeindent \
 	--html-custom-attributes \
 	--html-no-num-ent \
+	--html-no-head-ids \
 	--html-no-escapehtml \
 	--html-no-owasp \
 	--html-no-skiphtml
