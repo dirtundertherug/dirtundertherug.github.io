@@ -14,7 +14,8 @@ SUBDIR=about \
 	crypto \
 	free-speech \
 	neology \
-	personals
+	personals \
+	policy
 
 .include <bsd.subdir.mk>
 
