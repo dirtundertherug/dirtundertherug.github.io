@@ -3,13 +3,29 @@
 <head>
 <meta charset="utf-8" />
 <title>$ifdef(title)$$title.escapehtml$ ($endif$i am dirt under the rug.$ifdef(title)$)$endif$</title>
-$for(css.split)$
-<link rel="stylesheet" href="$this.escapehtmlurl$" />
-$endfor$$ifdef(icon)$
-<link rel="icon" type="image/svg" href="$icon.escapehtmlurl$" />
-$endif$
-$for(head.split)$$this$$endfor$
-<link rel="author" title="impurify" href="https://impurify.com/" />
+
+$for(css.split)--$
+<link rel="stylesheet" href="$this.escapehtmlurl$" referrerpolicy="no-referrer-when-downgrade" blocking="render" />
+$endfor--$
+$ifdef(icon)--$
+<link rel="icon" type="image/svg" href="$icon.escapehtmlurl$" referrerpolicy="no-referrer-when-downgrade" />
+$endif--$
+$for(head.split)--$
+$this--$
+$endfor--$
+
+<link rel="terms-of-service" title="impurify Master Terms of Service" href="https://dirtundertherug.com/policy/tos.html" referrerpolicy="no-referrer-when-downgrade" />
+
+<link rel="privacy-policy" href="https://dirtundertherug.com/policy/privacy.html" referrerpolicy="no-referrer-when-downgrade" />
+
+$ifdef(not(other-author))--$
+<link rel="author" title="impurify" href="https://impurify.com/" referrerpolicy="no-referrer-when-downgrade" />
+<link rel="me" href="https://impurify.com/" referrerpolicy="no-referrer-when-downgrade" />
+
+<meta name="copyright" content="Copyright © 2026.  All rights reserved.  LLM training on this content is expressly forbidden." />
+<link rel="license" href="https://dirtundertherug.com/policy/copyright.html" referrerpolicy="no-referrer-when-downgrade" />
+$endif--$
+
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 <body>
