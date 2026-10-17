@@ -1,5 +1,6 @@
 Title: Mike Masnick says, “I ain’t reading all that.”
 Author: Mike Masnick
+Other-Author: 1
 
   * **Author:** Mike Masnick
   * **Date:** <time datetime="2026-09-14T16:45Z" title="2026-09-14T16:45Z">2026-09-14 at 09:45 *Techdirt* time</time> (#)

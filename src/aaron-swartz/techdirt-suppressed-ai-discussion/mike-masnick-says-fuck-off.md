@@ -1,5 +1,6 @@
 Title: Mike Masnick says, “Oh you can go fuck all the way off.”
 Author: Mike Masnick
+Other-Author: 1
 
   * **Author:** Mike Masnick
   * **Date:** <time datetime="2026-09-12T23:38Z" title="2026-09-12T23:38Z">2026-09-12 at 16:38</time> *Techdirt* time (#5596054)

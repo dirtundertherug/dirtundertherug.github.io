@@ -1,5 +1,6 @@
 Title: Mike Masnick says, “You truly have become our dumbest commenter.”
 Author: Mike Masnick
+Other-Author: 1
 
   * **Author:** Mike Masnick
   * **Date:** <time datetime="2026-09-13T20:07Z" time="2026-09-13T20:07Z">2026-09-13 at 13:07</time> *Techdirt* time (#5596913)
