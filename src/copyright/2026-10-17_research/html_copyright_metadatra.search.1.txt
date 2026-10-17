@@ -1,0 +1,11 @@
+https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html?q=%22html%22+%22meta%22+%22copyright%22
+
+"html" "meta" "copyright"
+
+html - Is the copyright meta tag valid in HTML5? - Stack Overflow
+stackoverflow.com/questions/6665312/is-the-copyright-meta-tag-valid-in-html5
+The webpage discusses the validity of the copyright meta tag in HTML5 and provides insights on its usage and standards.
+HTML meta copyright: canonical reference | ThatDevPro
+www.thatdevpro.com/reference/html-meta-copyright/
+Comprehensive reference for HTML `<meta name="copyright">`, the page copyright declaration tag.
+Feedback
