@@ -1,5 +1,9 @@
 Author: impurify
 
+**2026-10-17:**  This morning, new policies were applied in the site’s visible footer, and in its HTML header metadata:  [Copyright](policy/copyright.html), [Terms of Service](policy/tos.html), and also a [Privacy Notice](policy/privacy.html).  They are effective immediately at the time of publication (<time>2026-10-17T10:54Z</time>), and going forward.
+
+I’d intended to announce them with an essay to the effect of, “When your (cultural) house is on fire, you need to use almost any available tool to stop it from burning down.”  I’ll need to save the essay for another time.  The important thing is to announce this now, at the top of the homepage.
+
 **2026-10-14:** [Quasi-Affidavit](ai/quasi-affidavit.html)—[signed and executed](ai/quasi-affidavit.md.asc); also [announced](commentary/2026/10/14/haters-will-want-to-read-this-one.html).
 
 **2026-10-11:** Published [“The vice of virtù: Satanic Paganini”](ai/the-vice-of-virtu.html).
