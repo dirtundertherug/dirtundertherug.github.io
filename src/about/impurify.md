@@ -13,15 +13,15 @@ No-Auto-Title: 1
 
 <span>I am:</span>
 
-* [X] **Name:** <strong class="smallcap"><a href="https://impurify.com/" title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade">IMPURIFY.COM</a>,</strong> <em>“The Antidote to Purity Culture™.”</em>
+* [X] **Name:** **[IMPURIFY.COM](https://impurify.com/){ .smallcap .scarlet title="impurify: “The Antidote to Purity Culture™.”" referrerpolicy="no-referrer-when-downgrade" },** *“The Antidote to Purity Culture™.”*
 * [X] [**Opinions:**  Yes.](controversial-opinions.html){ title="impurify (2026-10-18). “Controversial Opinions”." }
-* [X] **Gender:** \\( \htmlClass{scarlet}{| \psi \rangle} = \htmlClass{hotpink}{\alpha|0\rangle} \htmlClass{scarlet}{+} \htmlClass{epurple}{\beta|1\rangle}. \\)  Insofar as I am aware, I’m first person ever to use that equation to construct my gender.  I’ve written unpublished essays for my own discursive production of vectors of “superposed and entangled” genders.  Let it be your reminder to [upgrade to LibrePGP](https://lists.gnupg.org/pipermail/gnupg-users/2025-January/067441.html).  If “\\( \htmlClass{scarlet}{| \psi \rangle} \\)” is a mouthful for a pronoun, just use “they/them”.
-* [X] **Quest:** To seek the Holy Grail, for to use it to catch drippings in a [bukkake](https://commons.wikimedia.org/wiki/File:Bukkake.svg).
+* [X] **Gender:** \\( \htmlClass{scarlet}{| \psi \rangle} = \htmlClass{hotpink}{\alpha|0\rangle} \htmlClass{scarlet}{+} \htmlClass{epurple}{\beta|1\rangle}. \\)  Insofar as I am aware, I’m first person ever to use that equation to construct my gender.  I’ve written unpublished essays for my own discursive production of vectors of “superposed and entangled” genders.  Let it be your reminder to [upgrade to LibrePGP](https://lists.gnupg.org/pipermail/gnupg-users/2025-January/067441.html){ title="impurify, a.k.a. have anonymous sex (2025-01-01). “Betamax v. VHS, and the future of PQ-PGP”. GnuPG Users mailing list." }.  If “\\( \htmlClass{scarlet}{| \psi \rangle} \\)” is a mouthful for a pronoun, just use “they/them”.
+* [X] **Quest:** To seek the Holy Grail, for to use it to catch drippings in a [bukkake](https://commons.wikimedia.org/wiki/File:Bukkake.svg){ title="Wikimedia Commons: Bukkake.svg" }.
 * [ ] **Favorite color:** None of your business.
-* [X] **Favorite windmill:** A certain completely idiotic decision made [on www-talk in 1993](https://www.w3.org/Style/History/www.eit.com/www.lists/www-talk.1993q2/subject.html).
-* [X] **Most beautiful [equation](https://en.wikipedia.org/wiki/Euler%27s_Identity):** \\( e^{\htmlClass{scarlet}{i}\pi} + 1 = 0. \\)  Personal history reasons; ♥️.[^footnote1]
+* [X] **Favorite windmill:** A certain completely idiotic decision made [on www-talk in 1993](https://www.w3.org/Style/History/www.eit.com/www.lists/www-talk.1993q2/subject.html){ title="Mysterious W3C archive full of broken links." }.
+* [X] **Most beautiful [equation](https://en.wikipedia.org/wiki/Euler%27s_Identity){ title="*Wikipedia:* “Euler’s Identity”." }:** \\( e^{\htmlClass{scarlet}{i}\pi} + 1 = 0. \\)  Personal history reasons; ♥️.[^footnote1]
 * [X] **Problems of the heart:**  That “♥️” should be \\[ t \longmapsto \binom{12\sin(t) - 4\sin(3t)}{13\cos(t) - 5\cos(2t) - 2\cos(3t) - \cos(4t)}, \\] for my heart aches.  I so lovingly made custom pre-rendered, no-javashit[^butfonts] \\(\KaTeX\\) from the moment of this site’s birth, and I as yet barely use it.
-* [X] **Capital oligarch status:**  My finances are complex; they have a real part and an imaginary part.  On paper, I’m an imaginary [quintillionaire](https://en.wiktionary.org/wiki/quintillion):  My net worth is \\( \$\big( a + (2^{64} - 1)\htmlClass{scarlet}{i} \big) \\), for \\(a\\) real.[^complexfinance]
+* [X] **Capital oligarch status:**  My finances are complex; they have a real part and an imaginary part.  On paper, I’m an imaginary [quintillionaire](https://en.wiktionary.org/wiki/quintillion){ .glosslink title="*Wiktionary:* “quintillion”." }:  My net worth is \\( \$\big( a + (2^{64} - 1)\htmlClass{scarlet}{i} \big) \\), for \\(a\\) real.[^complexfinance]
 
 [^complexfinance]: First declared in my ethical ethics disclosure to the Texas Ethics Commission on [2026-09-18T10:37Z][complexfinance0] and [2026-09-19T01:06Z][complexfinance1].
 
