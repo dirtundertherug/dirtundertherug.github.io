@@ -5,9 +5,7 @@ INDEXREDIRECT=gloss
 OBJS=gloss.html \
 	index.html \
 	discursive-database.html \
-
-
-#	sexy-selfie.html
+	sexy-selfie.html
 
 all: ${OBJS}
 
